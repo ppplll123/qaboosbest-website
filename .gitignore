@@ -1,0 +1,7 @@
+# Firecrawl scrape cache
+.firecrawl/
+
+# Local screenshot / test artifacts
+screenshot_*.png
+*.tmp
+.DS_Store

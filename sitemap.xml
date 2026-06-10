@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://ppplll123.github.io/qaboosbest-website/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ppplll123.github.io/qaboosbest-website/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ppplll123.github.io/qaboosbest-website/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ppplll123.github.io/qaboosbest-website/"/>
+  </url>
+  <url>
+    <loc>https://ppplll123.github.io/qaboosbest-website/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://ppplll123.github.io/qaboosbest-website/"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://ppplll123.github.io/qaboosbest-website/ar/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://ppplll123.github.io/qaboosbest-website/"/>
+  </url>
+</urlset>
