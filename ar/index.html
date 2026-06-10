@@ -22,6 +22,27 @@
 <meta name="twitter:title" content="صيانة وإصلاح الأجهزة الطبية والمخبرية في دبي — قابوس بسط">
 <meta name="twitter:description" content="مؤسسة مرخّصة من دائرة الاقتصاد والسياحة بدبي لصيانة وإصلاح ومعايرة الأجهزة الطبية والمخبرية في الإمارات.">
 <meta name="twitter:image" content="https://images.unsplash.com/photo-1666214280352-db292c05fd80?fm=jpg&q=70&w=1200&auto=format&fit=crop">
+<script>
+(function(){
+  var DEFAULT_THEME='classic'; /* THEME TOGGLE: classic | modern | minimal | sand */
+  var VALID=['modern','classic','minimal','sand'];
+  var p=null;
+  try{p=new URLSearchParams(location.search).get('theme');}catch(e){}
+  var t=(p&&VALID.indexOf(p)>=0)?p:DEFAULT_THEME;
+  document.documentElement.setAttribute('data-theme',t);
+  if(p&&VALID.indexOf(p)>=0){
+    document.addEventListener('DOMContentLoaded',function(){
+      document.querySelectorAll('a[href]').forEach(function(a){
+        var h=a.getAttribute('href');
+        if(!h||/^(https?:|mailto:|tel:|#)/.test(h))return;
+        var i=h.indexOf('#'),base=i>=0?h.slice(0,i):h,hash=i>=0?h.slice(i):'';
+        if(!base)return;
+        a.setAttribute('href',base+(base.indexOf('?')>=0?'&':'?')+'theme='+p+hash);
+      });
+    });
+  }
+})();
+</script>
 <style>
   :root{
     --teal:#0a7c86; --teal-dark:#075962; --teal-light:#e6f4f5;
@@ -41,7 +62,7 @@
   .brand{display:flex;align-items:center;gap:12px}
   .brand a{display:flex;align-items:center;gap:12px;color:inherit}
   .logo{width:48px;height:48px;border-radius:10px;background:linear-gradient(135deg,var(--teal),var(--accent));color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:20px;flex:0 0 auto}
-  .brand h1{font-size:14.5px;line-height:1.3;color:var(--blue)}
+  .brand h1{font-size:14.5px;line-height:1.3;color:var(--blue);max-width:310px}
   .brand span{font-size:11.5px;color:var(--muted);font-weight:600;display:block}
   nav{display:flex;gap:4px;align-items:center;flex-wrap:wrap}
   nav a.navlink{font-weight:600;color:var(--ink);padding:9px 13px;border-radius:8px;cursor:pointer;font-size:14px}
@@ -136,7 +157,11 @@
     .split,.cgrid{grid-template-columns:1fr}
     .hero h2{font-size:25px}
   }
-  @media(max-width:680px){
+  @media(max-width:1120px){
+    nav a.navlink{padding:8px 9px;font-size:13px}
+    .lang{padding:8px 10px;font-size:13px}
+  }
+  @media(max-width:900px){
     .hamburger{display:block}
     nav{position:absolute;top:100%;inset-inline-end:0;background:var(--white);flex-direction:column;align-items:stretch;gap:0;min-width:210px;border:1px solid var(--line);border-radius:0 0 12px 12px;box-shadow:0 10px 24px rgba(0,0,0,.12);padding:8px;display:none}
     nav.open{display:flex}
@@ -144,6 +169,52 @@
     .lang{margin-top:4px}
   }
   @media(max-width:520px){.g3,.g2{grid-template-columns:1fr}}
+
+  /* ===================== THEME PACKS (data-theme on <html>) ===================== */
+  /* ---- CLASSIC ---- */
+  html[data-theme=classic]{--teal:#14507e;--teal-dark:#0e3a5c;--teal-light:#edf3f8;--blue:#173f5f;--accent:#14507e;--gold:#d2691e;--bg:#ffffff;--line:#c9d4dd;--muted:#5a6a76}
+  html[data-theme=classic] .logo,html[data-theme=classic] nav a.navlink,html[data-theme=classic] .lang,
+  html[data-theme=classic] .hamburger,html[data-theme=classic] .btn,html[data-theme=classic] .pill,
+  html[data-theme=classic] .card,html[data-theme=classic] .cbox,html[data-theme=classic] .lic,
+  html[data-theme=classic] .job,html[data-theme=classic] .faq details,html[data-theme=classic] .eqgrid span,
+  html[data-theme=classic] .map,html[data-theme=classic] .split img,html[data-theme=classic] .badge,
+  html[data-theme=classic] form input,html[data-theme=classic] form textarea{border-radius:0}
+  html[data-theme=classic] .card,html[data-theme=classic] .cbox,html[data-theme=classic] .lic,
+  html[data-theme=classic] .job,html[data-theme=classic] .split img{box-shadow:none}
+  html[data-theme=classic] .logo{background:var(--blue)}
+  html[data-theme=classic] .hero{background:var(--blue);padding:60px 20px}
+  html[data-theme=classic] .btn{border:1px solid rgba(0,0,0,.15)}
+  html[data-theme=classic] .card .ic{display:none}
+  html[data-theme=classic] h3.title{font-size:23px}
+
+  /* ---- MINIMAL ---- */
+  html[data-theme=minimal]{--teal:#1a3550;--teal-dark:#10243a;--teal-light:#f1f3f5;--blue:#10243a;--accent:#1a3550;--gold:#10243a;--bg:#ffffff;--white:#ffffff;--line:#dcdcdc;--muted:#454f57;--ink:#171c20}
+  html[data-theme=minimal] .logo,html[data-theme=minimal] nav a.navlink,html[data-theme=minimal] .lang,
+  html[data-theme=minimal] .hamburger,html[data-theme=minimal] .btn,html[data-theme=minimal] .pill,
+  html[data-theme=minimal] .card,html[data-theme=minimal] .cbox,html[data-theme=minimal] .lic,
+  html[data-theme=minimal] .job,html[data-theme=minimal] .faq details,html[data-theme=minimal] .eqgrid span,
+  html[data-theme=minimal] .map,html[data-theme=minimal] .split img,html[data-theme=minimal] .badge,
+  html[data-theme=minimal] form input,html[data-theme=minimal] form textarea{border-radius:0}
+  html[data-theme=minimal] .card,html[data-theme=minimal] .cbox,html[data-theme=minimal] .lic,
+  html[data-theme=minimal] .job,html[data-theme=minimal] .split img,html[data-theme=minimal] header{box-shadow:none}
+  html[data-theme=minimal] header{border-bottom:1px solid var(--line)}
+  html[data-theme=minimal] .logo{background:var(--blue)}
+  html[data-theme=minimal] .hero{background:none;color:var(--ink);padding:64px 20px 50px}
+  html[data-theme=minimal] .hero h2{color:var(--blue)}
+  html[data-theme=minimal] .hero p{color:var(--muted)}
+  html[data-theme=minimal] .btn{background:var(--blue);color:#fff}
+  html[data-theme=minimal] .btn.outline{border:2px solid var(--blue);color:var(--blue)}
+  html[data-theme=minimal] .trust{background:#fff;color:var(--ink);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+  html[data-theme=minimal] .trust b{color:var(--blue)}
+  html[data-theme=minimal] .trust a{color:var(--accent);text-decoration:underline}
+  html[data-theme=minimal] .card .ic{display:none}
+
+  /* ---- SAND ---- */
+  html[data-theme=sand]{--teal:#0a6b4f;--teal-dark:#07523c;--teal-light:#eaf3ec;--blue:#23403a;--accent:#0a6b4f;--gold:#b8860b;--bg:#f9f5ea;--white:#fffdf6;--line:#e3d9c0;--muted:#6b6352}
+  html[data-theme=sand] .card,html[data-theme=sand] .cbox,html[data-theme=sand] .lic,
+  html[data-theme=sand] .job,html[data-theme=sand] .faq details,html[data-theme=sand] .split img,
+  html[data-theme=sand] .eqgrid span,html[data-theme=sand] .map{border-radius:8px;box-shadow:none}
+  html[data-theme=sand] .hero{background:linear-gradient(rgba(45,37,20,.82),rgba(23,46,38,.88)),url('https://images.unsplash.com/photo-1663768266259-d723cfbe969b?fm=jpg&q=60&w=1600&auto=format&fit=crop') center/cover}
 </style>
 </head>
 <body>
