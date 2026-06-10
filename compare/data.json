@@ -1,0 +1,2487 @@
+{
+ "meta": {
+  "title": "UAE Medical & Laboratory Equipment Services — Public Website Comparison",
+  "captured": "2026-06-11",
+  "method": "Each company's publicly accessible website was visited and cataloged on 11 June 2026 (homepage + key inner pages, English and Arabic versions where present). Trust figures (years, counters, certifications) are reproduced AS CLAIMED on each company's own site and are not independently verified.",
+  "disclaimer": "This comparison is compiled exclusively from publicly available information on the companies' own websites. No affiliation with or endorsement by any listed company is implied. Websites change frequently — data reflects a single capture date and may be outdated or contain errors. All trademarks and brand names belong to their respective owners. Corrections are welcome.",
+  "companies_count": 15
+ },
+ "columns": {
+  "features": [
+   [
+    "arabic",
+    "Arabic website"
+   ],
+   [
+    "form",
+    "On-page contact/quote form"
+   ],
+   [
+    "whatsapp",
+    "WhatsApp chat"
+   ],
+   [
+    "livechat",
+    "Live chat"
+   ],
+   [
+    "map",
+    "Google Maps embed"
+   ],
+   [
+    "tel",
+    "Click-to-call (tel:)"
+   ],
+   [
+    "faq",
+    "FAQ section"
+   ],
+   [
+    "blog",
+    "Blog / news"
+   ],
+   [
+    "careers",
+    "Careers page"
+   ],
+   [
+    "social",
+    "Social media links"
+   ],
+   [
+    "schema",
+    "Structured data (JSON-LD)"
+   ],
+   [
+    "shop",
+    "Online shop / catalog"
+   ]
+  ],
+  "services": [
+   [
+    "ppm",
+    "Preventive maintenance (PPM)"
+   ],
+   [
+    "calibration",
+    "Calibration"
+   ],
+   [
+    "amc",
+    "AMC / CMC contracts"
+   ],
+   [
+    "est",
+    "Electrical safety testing"
+   ],
+   [
+    "install",
+    "Installation & commissioning"
+   ],
+   [
+    "parts",
+    "Spare parts supply"
+   ],
+   [
+    "training",
+    "User training"
+   ],
+   [
+    "radiation",
+    "Radiation / FANR services"
+   ]
+  ]
+ },
+ "companies": [
+  {
+   "id": "qaboos",
+   "name": "Qaboos Best Medical & Laboratory Equipment Repairing Est.",
+   "short": "Qaboos Best",
+   "url": "https://ppplll123.github.io/qaboosbest-website/",
+   "category": "direct",
+   "emirate": "Dubai",
+   "us": true,
+   "features": {
+    "arabic": {
+     "v": 1,
+     "n": "Full bilingual: crawlable /ar/ page, RTL, reciprocal hreflang"
+    },
+    "form": {
+     "v": 0.5,
+     "n": "mailto-based form — opens the visitor's email app; no server backend"
+    },
+    "whatsapp": {
+     "v": 0
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 1,
+     "n": "Embedded map pinned to Boulevard Plaza Tower 2"
+    },
+    "tel": {
+     "v": 1,
+     "n": "All phone numbers are tel: links"
+    },
+    "faq": {
+     "v": 1,
+     "n": "7 Q&As in English and Arabic + FAQPage JSON-LD"
+    },
+    "blog": {
+     "v": 0
+    },
+    "careers": {
+     "v": 1,
+     "n": "Sales Officer vacancy + JobPosting JSON-LD"
+    },
+    "social": {
+     "v": 0
+    },
+    "schema": {
+     "v": 1,
+     "n": "MedicalBusiness + FAQPage + JobPosting"
+    },
+    "shop": {
+     "v": 0
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 1
+    },
+    "amc": {
+     "v": 1
+    },
+    "est": {
+     "v": 1
+    },
+    "install": {
+     "v": 1
+    },
+    "parts": {
+     "v": 1
+    },
+    "training": {
+     "v": 0
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "Licensed Feb 2025 (new establishment)",
+    "iso": "—",
+    "testimonials": "—",
+    "client_logos": "—",
+    "oem_logos": "—",
+    "other": "Displays full DET professional license (No. 1475682) with verify link — the only site in this set showing a verifiable trade license"
+   },
+   "notes": [
+    "License expiry shown as printed on the license document (19/02/2026)",
+    "Contact form has no backend — it opens the visitor's mail client"
+   ],
+   "raw": {
+    "name": "Qaboos Best Medical & Laboratory Equipment Repairing Est.",
+    "url": "https://ppplll123.github.io/qaboosbest-website/",
+    "reachable": true,
+    "nav_sections": [
+     "Home",
+     "About Us",
+     "Services",
+     "Careers",
+     "FAQ",
+     "License",
+     "Contact",
+     "العربية (/ar/)"
+    ],
+    "services_listed": [
+     "Biomedical equipment repair",
+     "Preventive maintenance (PPM)",
+     "Calibration & performance verification",
+     "Laboratory analyzer servicing",
+     "Imaging & diagnostic maintenance",
+     "Patient monitoring servicing",
+     "Installation, testing & commissioning",
+     "Annual Maintenance Contracts (AMC/CMC)",
+     "Electrical safety testing (EST)",
+     "Spare parts sourcing & supply",
+     "Equipment inspection & reports",
+     "Emergency breakdown support"
+    ],
+    "trust_signals": [
+     "Full Dubai DET professional license table (No. 1475682, CR 1265308) with verification link",
+     "No invented claims: no testimonials, client logos, ISO badges or years-in-business counters (licensed Feb 2025)"
+    ],
+    "site_features": [
+     "Crawlable Arabic page /ar/ with reciprocal hreflang",
+     "Bilingual FAQ (7 Q&As)",
+     "Google Maps embed",
+     "tel: click-to-call links",
+     "JSON-LD: MedicalBusiness, FAQPage, JobPosting",
+     "Open Graph + Twitter cards",
+     "sitemap.xml + robots.txt + favicon",
+     "mailto-based contact form (no backend)"
+    ],
+    "arabic_support": "full bilingual — separate crawlable /ar/ page, lang=ar dir=rtl, reciprocal hreflang",
+    "brands_serviced": [],
+    "standout_items": [
+     "Only site in this set displaying a verifiable trade license"
+    ]
+   },
+   "services_count": 12
+  },
+  {
+   "id": "paramount",
+   "name": "Paramount Medical Equipment Trading LLC",
+   "short": "Paramount",
+   "url": "https://paramountuae.com/",
+   "category": "trading",
+   "emirate": "Sharjah",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 0.5,
+     "n": "Contact form present, but its captcha shortcode renders as raw unprocessed text"
+    },
+    "whatsapp": {
+     "v": 1
+    },
+    "livechat": {
+     "v": 1,
+     "n": "Tawk.to"
+    },
+    "map": {
+     "v": 1
+    },
+    "tel": {
+     "v": null
+    },
+    "faq": {
+     "v": 0
+    },
+    "blog": {
+     "v": 1,
+     "n": "100+ posts, weekly cadence"
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0.5,
+     "n": "FB/IG/LinkedIn icons; LinkedIn footer link points to an /admin/ URL (broken for visitors)"
+    },
+    "schema": {
+     "v": 0.5,
+     "n": "Single minimal Organization block (name + url only)"
+    },
+    "shop": {
+     "v": 1,
+     "n": "WooCommerce shop, 21 products priced in AED"
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 1
+    },
+    "amc": {
+     "v": 1
+    },
+    "est": {
+     "v": 0
+    },
+    "install": {
+     "v": 1
+    },
+    "parts": {
+     "v": null
+    },
+    "training": {
+     "v": 0
+    },
+    "radiation": {
+     "v": 1,
+     "n": "Lead shielding, FANR consultation, radiation QA/QC"
+    }
+   },
+   "trust": {
+    "years": "Founded 2002 — '20+ years' counters",
+    "iso": "ISO 9001 (text claim, no certificate shown)",
+    "testimonials": "4 named doctors",
+    "client_logos": "—",
+    "oem_logos": "18 partner logos",
+    "other": "WMC Excellence Award 2022; Arab Health / AEEDC exhibition track record"
+   },
+   "notes": [
+    "Contact-form captcha shortcode renders as raw text",
+    "LinkedIn footer link points to an /admin/ URL"
+   ],
+   "raw": {
+    "arabic_support": "none — no /ar/ paths, no hreflang tags, no language switcher, zero Arabic characters anywhere in the HTML; site is English-only (locale en_US)",
+    "brands_serviced": [
+     "Allengers",
+     "Agfa",
+     "Acteon",
+     "SonoScape",
+     "Genoray (explicitly called 'Our Genoray Partner' on Awards page; Genoray Papaya imaging system named in a testimonial)",
+     "Runyes",
+     "Lasotronix",
+     "DRTECH",
+     "Sibelmed",
+     "POSKOM",
+     "Medstar",
+     "MIR",
+     "Control-X",
+     "BenQ",
+     "DRE Veterinary",
+     "Medical ECONET",
+     "Two more partner logos with no identifiable name (files: SS-logo.svg, focus-fusion-new-logo.svg)",
+     "Note: these appear as 'Our Partners' (distribution/OEM partners) in a homepage logo carousel with empty alt text; the site does not name big-iron brands like GE/Philips/Mindray/Drager as serviced brands"
+    ],
+    "name": "Paramount Medical Equipment Trading LLC",
+    "nav_sections": [
+     "Home",
+     "About Us (Corporate Profile, Total Quality Management)",
+     "Products mega-menu (X-Ray Solutions; Medical Equipment — Cardiology, General Diagnostics, Neurology, Urology, ENT/Audiology, Ophthalmology, Pulmonology, Derma/Aesthetics, OT CSSD, Medical Furniture; Radiology & Imaging — Digital Radiography Fixed/Mobile/Portable, DR Retrofit FPD, Mammography, Cath Lab, C-Arm, Ultrasound; Dental Equipment — 10 subcategories incl. Dental Chair, Mobile Dental Unit, Digital Dentistry/CADCAM, Intraoral/Extraoral Imaging, Dental Laser; Nuclear/Radiation Products — Nuclear Hot Lab, Radiation Protection Products; Laboratory Solutions; Ambulance & Emergency Equipment; Healthcare IT Solution; Veterinary Equipment — 6 subcategories incl. Equine Solutions; Digital Health Solution)",
+     "Services (Lead Shielding & FANR Consultation, Biomedical Engineering & Equipment Repair, Clinic Design and Execution, Project Management)",
+     "Awards & Events",
+     "Blog",
+     "Buy Now (WooCommerce shop with cart and my-account)",
+     "Get in Touch",
+     "Homepage sections: hero slider, About/stats counters, Product Range tabs, Services Offered, Our Partners logo carousel, Testimonials, News and Events, footer with full product/category links"
+    ],
+    "reachable": true,
+    "services_listed": [
+     "Lead Shielding & FANR Consultation Services (X-ray room lead lining, RF shielding for MR rooms, FANR consultation, radiation QA/QC, radioactive nuclear waste effluent management, pre-installation services for radiology rooms, radiation protection products: lead sheets, shielded doors, lead-lined drywall, leaded glass, mobile lead screens)",
+     "Biomedical Engineering & Equipment Repair Services (Planned Preventive Maintenance, comprehensive PM programs, Annual Maintenance Contracts and Comprehensive Maintenance Contracts, on-call repair/safety checks/calibration, one-time calibration, testing and repair, equipment installation; serving Dubai, Abu Dhabi, Sharjah and across UAE)",
+     "Clinic Design and Execution (clinic space planning, patient-friendly interiors, equipment integration planning)",
+     "Project Management (healthcare projects concept-to-completion)",
+     "Plus equipment supply/distribution across 10+ product categories: Radiology & Imaging, Medical Equipment, Dental, Nuclear/Radiation, Laboratory, Ambulance & Emergency, Healthcare IT, Veterinary, Digital Health"
+    ],
+    "site_features": [
+     "WhatsApp click-to-chat button (api.whatsapp.com, +971 55 7909651, via Chaty plugin)",
+     "Tawk.to live chat widget",
+     "Contact form on Get in Touch page (Contact Form 7: name, mobile, email, subject, message + captcha — but the captcha shortcode '[dscf7captcha dscf7captcha-676]' renders as raw unprocessed text, i.e. visibly broken)",
+     "Google Maps embed on contact page (pinned to Paramount Medical Equipment Trading LLC, Sharjah)",
+     "E-commerce: WooCommerce 'Buy Now' shop with 21 products priced in AED (compressors, X-ray accessories, ECG units, goggles, thermometers etc.), cart and my-account pages",
+     "Very active SEO blog (100+ posts, weekly cadence, posts dated through April 2026)",
+     "JSON-LD schema.org markup present but minimal: a single Organization block with only name 'Paramount', url, and empty sameAs array",
+     "Social links: Facebook, Instagram, LinkedIn — but the LinkedIn footer link points to linkedin.com/company/80353068/admin/ (an admin URL, broken for visitors)",
+     "Cloudflare email obfuscation (decodes to info@paramountuae.com)",
+     "Cookie consent banner (CookieYes) and GA4 via Google Tag Manager (G-8NQCZBRGV6)",
+     "Promo popup banner: 'Visit us! Hall 3.2, Stand A010' (exhibition booth)",
+     "3D FlipBook (dFlip) plugin loaded site-wide, though no brochure PDF found on key pages",
+     "Back-to-top button",
+     "No FAQ page, no careers page, no downloadable brochures found, no Arabic version",
+     "Platform: WordPress 7.0 + Elementor 4.0.8 + WooCommerce 10.8.1, built by emQube LLC"
+    ],
+    "standout_items": [
+     "WooCommerce online store with live AED pricing and cart — an actual buy-online channel, not just a catalog",
+     "Named, attributed testimonials from 4 doctors with their clinics (Al Shifa Al Khaleeji Medical Center Group SHJ & DXB, Al Shamil Medical Centre, Luminance Dental Center DXB, Class Medical Centre SHJ)",
+     "FANR (UAE Federal Authority for Nuclear Regulation) consultation as a differentiated regulatory-compliance service, paired with lead shielding/radiation protection construction work",
+     "Animated stats counters: founded 2002, 20+ years in industry, 2+ countries",
+     "Two-office footprint shown on contact page: Sharjah UAE HQ (PO Box 7584, tel +971 6 7459676, mob +971 55 7909651, fax +971 6 7459678) and Muscat Oman office (+968 22014834)",
+     "Awards & Events page: WMC Excellence Awards 2022 'Best Med. Equip. & Supplies Provider', AEEDC Dubai 2026/2025/2020, Arab Health 2025/2020, Genoray Fly DR software training",
+     "Exhibition-booth popup banner driving event foot traffic (Hall 3.2, Stand A010)",
+     "High-volume weekly SEO blog targeting UAE/Oman keywords (Dubai, Sharjah, Muscat)",
+     "Breadth plays: veterinary/equine equipment, dental, nuclear hot lab — unusually wide category coverage for one supplier",
+     "Weaknesses worth noting for comparison: no Arabic despite UAE market, minimal schema markup, broken captcha shortcode on contact form, LinkedIn admin link, empty alt text on all partner logos, no FAQ/careers/case-study pages, no ISO cert document downloads (ISO 9001 is claimed in text only on the Total Quality Management page)"
+    ],
+    "trust_signals": [
+     "ISO 9001 certified (stated on Total Quality Management page; text claim, no certificate shown)",
+     "Founded 2002 — animated counters show '2002 until today', '20+ years in the industry', '2+ countries'",
+     "WMC Excellence Awards 2022 — 'Best Med. Equip. & Supplies Provider' (Awards & Events page)",
+     "Exhibition track record: AEEDC Dubai Exhibition 2026, Arab Health 2025 (27-30 Jan), AEEDC Dubai 2025 (4-6 Feb), Arab Health 2020, AEEDC 2020, Genoray Fly DR Software Training 2020",
+     "18 partner/OEM logos in 'Our Partners — Partners for Medical Excellence' carousel (Allengers, Agfa, Acteon, SonoScape, Genoray, Runyes, Lasotronix, DRTECH, Sibelmed, POSKOM, Medstar, MIR, Control-X, BenQ, DRE Vet, Medical ECONET + 2 unidentified)",
+     "4 named customer testimonials with doctor names, titles and facilities: Dr. Ejas Kader (Al Shifa Al Khaleeji Medical Center Group), Dr. Shameer M K (Al Shamil Medical Centre), Dr. Ahmad S B Abu Easha (Luminance Dental Center), Dr. Kamlesh Punjabi (Class Medical Centre)",
+     "FANR (Federal Authority for Nuclear Regulation) consultation expertise — 'over two decades' in radiation protection",
+     "Claims coverage across Middle East, India and Africa; offices in UAE (Sharjah) and Oman (Muscat)",
+     "Team section ('United For a Healthier Tomorrow') but no individual team bios",
+     "No client logos, no project counts, no case studies, no certificate documents displayed"
+    ],
+    "url": "https://paramountuae.com/"
+   },
+   "services_count": 5
+  },
+  {
+   "id": "ihag",
+   "name": "IHAG — Maintenance for Medical Equipment",
+   "short": "IHAG",
+   "url": "https://ihag.ae/",
+   "category": "direct",
+   "emirate": "Dubai",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 1,
+     "n": "PHP contact/quote form"
+    },
+    "whatsapp": {
+     "v": 0,
+     "n": "Number shown as plain text only"
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 0.5,
+     "n": "'Open Map' link only — no embed"
+    },
+    "tel": {
+     "v": 0,
+     "n": "Phone shown as plain text"
+    },
+    "faq": {
+     "v": 1,
+     "n": "6 Q&As"
+    },
+    "blog": {
+     "v": 0
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0
+    },
+    "schema": {
+     "v": 0
+    },
+    "shop": {
+     "v": 0
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 0.5,
+     "n": "X-ray QC tests; general calibration not listed"
+    },
+    "amc": {
+     "v": 1
+    },
+    "est": {
+     "v": 0
+    },
+    "install": {
+     "v": 1
+    },
+    "parts": {
+     "v": 0.5,
+     "n": "Medical equipment supplies"
+    },
+    "training": {
+     "v": 1,
+     "n": "RPO (Radiation Protection Officer) course"
+    },
+    "radiation": {
+     "v": 1,
+     "n": "FANR license management, shielding, X-ray QC"
+    }
+   },
+   "trust": {
+    "years": "—",
+    "iso": "—",
+    "testimonials": "—",
+    "client_logos": "—",
+    "oem_logos": "—",
+    "other": "'100% work guaranteed'; 24/7 support; 250+ facilities counter"
+   },
+   "notes": [
+    "Contact email is a hotmail.com address",
+    "Privacy/terms footer links are dead '#' anchors"
+   ],
+   "raw": {
+    "name": "IHAG - Maintenance for Medical Equipment",
+    "url": "https://ihag.ae/",
+    "reachable": true,
+    "nav_sections": [
+     "Home",
+     "About",
+     "Solutions",
+     "Services",
+     "AMC",
+     "Quick Links (dropdown: Request a Quotation; Key Services sub-dropdown: PPM Annual Contract, FANR License Management, Radiation Safety Assessment, Lead Shielding Installation, QC Test for X-Ray; Annual Maintenance Contract; FAQ; Contact)",
+     "Contact",
+     "Request a Quote (CTA button)",
+     "Page sections (single-page site, all nav links are #anchors on index.html): Hero, About IHAG, Solutions/Features (4 service blocks), Stats counters, Services (6 numbered services), FAQ (6 questions), Contact + quote form, Footer (Useful Links, Our Services, Contact Us)"
+    ],
+    "services_listed": [
+     "Preventive Maintenance / PPM Annual Contracts (AMC) for medical equipment",
+     "Annual Maintenance Contract (AMC) with scheduled PPM visits and on-call support",
+     "FANR License Management (new license, registration, renewal, amendment, import/export, clearance, custody transfer, documentation follow-up, consultancy)",
+     "Radiation Safety Assessment for X-Ray rooms",
+     "Lead Shielding Installation for X-Ray rooms (site survey, supply & installation, documentation/reporting)",
+     "Quality Control Test for X-Ray machines (acceptance & periodic QC tests, performance verification, results reports & recommendations)",
+     "Equipment Installation",
+     "Technical Repair & troubleshooting (on-site)",
+     "Dental Handpiece Repair",
+     "Safe Disposal of X-Ray machines",
+     "Medical equipment supplies",
+     "RPO training course / certificate (Radiation Protection Officer)",
+     "24/7 support / fast response troubleshooting"
+    ],
+    "trust_signals": [
+     "100% Work Guaranteed (repeated throughout: 'all work guaranteed')",
+     "24/7 Support Available",
+     "250+ Facilities Supported (animated counter; clinics, hospitals, medical centers)",
+     "10+ Core Services (counter)",
+     "Professional trained biomedical engineer support (repeated claim; 'IHAG Biomedical Team')",
+     "Cost-effective rates (repeated claim)",
+     "Dubai/UAE based - physical address Al Barsha 1, Dubai",
+     "Facility types served: dental clinics, hospitals, medical centers, polyclinics, school clinics, hotel clinics, optical clinics",
+     "NOTABLE ABSENCES: no ISO certifications, no years-in-business claim, no client names/logos, no OEM/manufacturer partnerships, no testimonials, no named team members or bios, no accreditation badges (FANR is mentioned only as a service they help clients obtain, not as their own accreditation)"
+    ],
+    "site_features": [
+     "Contact/quote form (POSTs to forms/contact.php - endpoint exists, returns 405 on GET as expected for a POST handler; BootstrapMade php-email-form)",
+     "FAQ section (6 Q&As: AMC scope, FANR support, radiation safety/shielding, QC tests, facilities served, how to get a quote)",
+     "Google Maps LINK only ('Open Map' -> google.com/maps?q=Al+Barsha+1,+Dubai,+UAE) - no embedded map iframe",
+     "WhatsApp number displayed as plain text only (052 675 7010) - NO clickable wa.me/click-to-chat button",
+     "Phone 04 371 3494 plain text - no tel: link",
+     "Email i_h_ag@hotmail.com plain text - no mailto: link (and it is a Hotmail address, not a domain email)",
+     "Meta description + keywords tags present (basic SEO)",
+     "NO JSON-LD/schema.org markup, NO Open Graph tags",
+     "NO live chat, NO blog, NO careers page, NO social media links of any kind, NO downloadable brochures",
+     "Footer 'Terms of service' and 'Privacy policy' links are dead '#' anchors",
+     "No sitemap.xml (404)",
+     "Built on free BootstrapMade 'Landify' template (Bootstrap 5.3.7, AOS, Swiper, GLightbox, PureCounter)"
+    ],
+    "arabic_support": "none - HTML lang=\"en\" only, no hreflang tags, no language switcher, no Arabic characters anywhere in the source, and /ar and /ar/ both return 404",
+    "brands_serviced": [],
+    "standout_items": [
+     "FANR (UAE Federal Authority for Nuclear Regulation) license management as a flagship end-to-end service - new license, renewal, amendment, import/export, clearance, custody transfer - this radiation-compliance angle is the site's main differentiator",
+     "RPO (Radiation Protection Officer) training course/certificate offering",
+     "Safe disposal of X-Ray machines - an end-of-life service few competitors list",
+     "Lead shielding installation bundled with radiation safety assessment and QC testing as a complete X-Ray room compliance package",
+     "Dental handpiece repair as a named niche service",
+     "Targets unusual facility segments explicitly: school clinics, hotel clinics, optical clinics (in addition to dental clinics, hospitals, polyclinics)",
+     "Slogan: 'You Name It! We Fix It!' and a one-call/one-partner positioning",
+     "Strategic weaknesses worth noting for comparison: zero equipment brand names (no GE/Philips/Mindray/Drager), no certifications/client proof, Hotmail contact email, no clickable phone/WhatsApp/email links, single-page template site with no inner pages, no Arabic despite UAE market"
+    ]
+   },
+   "services_count": 13
+  },
+  {
+   "id": "adamsmed",
+   "name": "Adamsmed Medical Equipment LLC",
+   "short": "Adamsmed",
+   "url": "https://adamsmed.ae/",
+   "category": "trading",
+   "emirate": "Dubai",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 0.5,
+     "n": "Form renders as unconfigured 'Contact Form Demo (#4)' with generic field labels"
+    },
+    "whatsapp": {
+     "v": 1
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 0.5,
+     "n": "Footer maps link only — no embed"
+    },
+    "tel": {
+     "v": 1
+    },
+    "faq": {
+     "v": 1,
+     "n": "14 Q&As across two pages"
+    },
+    "blog": {
+     "v": 1,
+     "n": "At least one post"
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0
+    },
+    "schema": {
+     "v": 1,
+     "n": "Organization, WebSite + SearchAction via Rank Math"
+    },
+    "shop": {
+     "v": 1,
+     "n": "External store adamsmedonline.com"
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 1
+    },
+    "amc": {
+     "v": 1
+    },
+    "est": {
+     "v": 0
+    },
+    "install": {
+     "v": 1
+    },
+    "parts": {
+     "v": null
+    },
+    "training": {
+     "v": 0
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "—",
+    "iso": "ISO 9001:2015 (text claim)",
+    "testimonials": "—",
+    "client_logos": "—",
+    "oem_logos": "13+ named OEM partners with write-ups",
+    "other": "Official Periodmed distributor (MENA); installations claimed across Asia/ME/Africa"
+   },
+   "notes": [
+    "Contact form renders as an unconfigured demo",
+    "'Download our Profile' brochure button links to '#'"
+   ],
+   "raw": {
+    "name": "Adamsmed Medical Equipment LLC",
+    "url": "https://adamsmed.ae/",
+    "reachable": true,
+    "nav_sections": [
+     "About Us",
+     "Products (dropdown: General Medical Devices, Hospital Furniture, Laboratory Equipment, Operation Theatre Room Equipment, Personal Protection Equipment, Ophthalmology Equipment, Labor Room Equipment, ENT Equipments, Dental Equipment, Radiology Equipments, Physiotherapy & Rehabilitation Equipment, CSSD Equipments and Miscellaneous)",
+     "Services and Maintenance",
+     "Blogs",
+     "Our Partners",
+     "Shop (external link to adamsmedonline.com)",
+     "Contact Us (footer/CTA 'Get a Quote')",
+     "Homepage sections: hero, Quality/Service/Innovation pillars, 12 product category cards, Periodmed featured products (ultrasound, patient monitors, vital signs monitors, BP tools), company credentials, services overview, manufacturing partner logos, quote CTA"
+    ],
+    "services_listed": [
+     "Biomedical Engineering Solutions",
+     "Services and Healthcare Solutions (customized healthcare solutions)",
+     "AMC & CMC (Annual + Comprehensive Maintenance Contracts) for a wide range of medical equipment",
+     "Annual Maintenance Contracts (scheduled maintenance, repair, emergency call-outs, priority response)",
+     "Planned Preventive Maintenance (PPM) programs",
+     "Routine/Preventive Maintenance with labeled equipment, documentation, PPM checklists and policies",
+     "Corrective Maintenance (breakdown repair)",
+     "Installation/Repairing of Biomedical Equipment (onsite or workshop; critical/emergency on-call response program)",
+     "Testing & Commissioning of New Equipment",
+     "Performance Verification (measuring instruments)",
+     "Calibration, inspection and repair for general, diagnostic, therapeutic and laboratory equipment (incl. healthcare facilities, beauty salons, laboratories)",
+     "Equipment Condition Appraisal (condition reports)",
+     "Healthcare Project Management (planning, procurement, installation, maintenance)",
+     "School Health Project Management",
+     "Equipment supply/distribution across 12 product categories (hospital furniture, general medical devices, lab, OT, radiology, ophthalmology, ENT, dental, labor room, physiotherapy/rehab, CSSD, PPE)"
+    ],
+    "trust_signals": [
+     "ISO 9001:2015 certified company (stated on homepage, repeated in 'Certifications' block)",
+     "Claimed installations throughout Asia, the Middle East and Africa, in private and government sectors",
+     "Official distributor of Periodmed in Middle East and North Africa",
+     "13+ named OEM manufacturing partners with logos and company write-ups on a dedicated Our Partners page",
+     "'Supporting partners' name-dropped: Sony, Abbott (spelled 'Abbot'), Contec, iHealth",
+     "Physical address (B-05, Al Wasl building R 1004-2 WASL District, Deira-Dubai) and business hours displayed site-wide",
+     "Tagline 'Leading Supplier in the Middle East and North Africa'",
+     "Partner ISO certs cited (e.g. Fiocchetti and Inmoclinc ISO 9001 + ISO 13485)",
+     "No testimonials, no client/hospital logos, no project counts, no years-in-business figure, no team bios anywhere on the site"
+    ],
+    "site_features": [
+     "WhatsApp chat popup widget (web.whatsapp.com/send?phone=9710508962660, i.e. +971 50 896 2660)",
+     "Quote/contact form on Contact Us page (Fluent Forms) - but rendered as unconfigured 'Contact Form Demo (#4)' with generic 'Text Input' field labels",
+     "'Get a Quote' CTA in footer on every page",
+     "Blog section (/blogs/) with at least one post (portable oxygen cylinders)",
+     "FAQ accordions on Services and Maintenance page (8 Q&As) and Our Partners page (6 Q&As)",
+     "Google Maps link in footer (maps.app.goo.gl short link) - no embedded map iframe",
+     "JSON-LD schema.org markup (Organization/Person, WebSite with SearchAction, WebPage) via Rank Math SEO",
+     "Google Tag Manager + Site Kit by Google analytics",
+     "External e-commerce 'Shop' link to adamsmedonline.com",
+     "'Download our Profile' company brochure button on About page - links to '#' (dead/non-functional)",
+     "tel: and mailto: links in header (sales@adamsmed.ae, +971 56 996 6545)",
+     "No live chat (other than WhatsApp), no social media links anywhere, no careers page"
+    ],
+    "arabic_support": "none - no /ar/ path (404), no hreflang tags, no language switcher, no Arabic text in any fetched page; html lang=\"en-US\" and JSON-LD inLanguage en-US. English-only site.",
+    "brands_serviced": [
+     "No specific brands are named for servicing - the services page only says they service 'all types of medical equipment' (general, diagnostic, therapeutic, laboratory)",
+     "Brands they distribute/partner with (not explicitly 'serviced'): Periodmed",
+     "Medion",
+     "Fiocchetti",
+     "MIR (Medical International Research)",
+     "Zoncare",
+     "Inmoclinc",
+     "ibis medical",
+     "Yonker",
+     "Waterloo Healthcare",
+     "Bristol Maid",
+     "Nitrocare",
+     "Mediplus (SUSPL)",
+     "Hersill",
+     "Supporting brands offered: Sony",
+     "Abbott",
+     "Contec",
+     "iHealth"
+    ],
+    "standout_items": [
+     "Dedicated 'Our Partners' page with logo + paragraph-length profile for each OEM partner - a strong distributor-credibility format worth emulating",
+     "FAQ sections with detailed maintenance Q&As (AMC contents, maintenance frequency, response times) - good for SEO and buyer education",
+     "Niche service offerings that differentiate: School Health Project Management, Healthcare Project Management, Equipment Condition Appraisal, Performance Verification",
+     "Servicing scope explicitly extended to beauty salons and laboratories, not just hospitals",
+     "Separate e-commerce storefront (adamsmedonline.com) linked as 'Shop'",
+     "Featured-product showcase for their flagship distributed line (Periodmed ultrasound and patient monitoring) on the homepage",
+     "Quality-control gaps competitors could beat: demo/placeholder contact form, dead 'Download our Profile' button, zero social media presence, no testimonials/client logos/case studies, no careers page, no Arabic version, duplicated/swapped FAQ answer text (School Health vs Equipment Condition Appraisal descriptions are swapped, and one FAQ answer is duplicated)",
+     "Site is WordPress with Oxygen builder, designed by agency 'Stakque'; leftover dev artifact: a partner-page image still loads from dentist.oxy.host demo domain"
+    ]
+   },
+   "services_count": 15
+  },
+  {
+   "id": "sultan",
+   "name": "Sultan Medical Equipments Repair (BAB SULTAN EST)",
+   "short": "Sultan Medical",
+   "url": "https://sultanmedicalrepair.com/",
+   "category": "direct",
+   "emirate": "Dubai",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 1,
+     "n": "Generic WPForms (name/email/message)"
+    },
+    "whatsapp": {
+     "v": 0
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 0
+    },
+    "tel": {
+     "v": 0,
+     "n": "Header phone is plain text"
+    },
+    "faq": {
+     "v": 0
+    },
+    "blog": {
+     "v": 0
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0
+    },
+    "schema": {
+     "v": 0,
+     "n": "Also: empty homepage <title>, no meta description"
+    },
+    "shop": {
+     "v": 0
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 1
+    },
+    "amc": {
+     "v": 0.5,
+     "n": "'Proactive maintenance plans' with priority service"
+    },
+    "est": {
+     "v": 1
+    },
+    "install": {
+     "v": 0
+    },
+    "parts": {
+     "v": 1
+    },
+    "training": {
+     "v": 0
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "©2009 in footer (no explicit claim)",
+    "iso": "—",
+    "testimonials": "1, unattributed",
+    "client_logos": "—",
+    "oem_logos": "—",
+    "other": "Counters: 500+ devices/month, 98% satisfaction, 90-day warranty, 365-day emergency line"
+   },
+   "notes": [
+    "Homepage <title> tag is empty; no meta description"
+   ],
+   "raw": {
+    "name": "Sultan Medical Equipments Repair (on-site brand: BAB SULTAN FOR MEDICAL & LABORATORY EQUIPMENT REPAIRING EST / \"BAB SULTAN EST\"; footer: \"Sultan Medical Repair\")",
+    "url": "https://sultanmedicalrepair.com/",
+    "reachable": true,
+    "nav_sections": [
+     "Home",
+     "About Us",
+     "Our Services (links to /our-businesses/)",
+     "Contact",
+     "Header phone: +971-582494402",
+     "Homepage sections: Hero (Expert Medical Equipment Repair), What Makes Us Different, Our Philosophy, About Us / Our Journey & Commitment, What We Provide (services), Stats counters, Why Choose Us, Testimonial, Footer (Useful Links: Home, About Us, Services, Contact Us; Contact block)"
+    ],
+    "services_listed": [
+     "Medical equipment repair (surgical, diagnostic, patient care devices)",
+     "Laboratory equipment repair",
+     "Support & calibration services (scheduled maintenance, calibration, safety testing)",
+     "Surgical & electrosurgical units (cautery pens, generators)",
+     "Patient monitors & defibrillators",
+     "Infusion & syringe pumps",
+     "Anesthesia machines & ventilators",
+     "Ultrasound machines & probes",
+     "Centrifuges & laboratory analyzers",
+     "Autoclaves & sterilizers",
+     "Microscopes & lab instruments",
+     "Precision calibration & testing: full device calibration to manufacturer specs, Electrical Safety Testing (EST), performance verification, compliance certification",
+     "Proactive maintenance plans: customized preventive maintenance schedules, priority service & discounted rates, equipment health reporting, parts & inventory management",
+     "Parts & components: genuine & high-quality compatible parts, fast availability, warranty on all installed parts",
+     "Service delivery models: on-site service, mail-in/courier repair, remote diagnostics, annual service contracts",
+     "24/7 emergency repair support"
+    ],
+    "trust_signals": [
+     "Animated stat counters: 500+ devices repaired monthly, 98% client satisfaction rate, 90-day warranty, 365 days emergency line",
+     "One testimonial, unattributed (no name/company): 'BAB SULTAN has maintained our lab equipment for 3 years. Their preventive maintenance program has reduced our unexpected breakdowns by 70%'",
+     "Claims of 'certified' technicians/engineers and 'stringent international standards' — but NO specific ISO cert, accreditation body, or certificate number named",
+     "Footer copyright reads '©2009. Sultan Medical Repair' (may imply since 2009, but no explicit years-in-business claim in copy)",
+     "Claims 'Trusted by Leading Healthcare Providers' and 'Nationwide Reach' across UAE/GCC — no client names or logos shown",
+     "Warranty on repairs and installed parts mentioned",
+     "NO client logos, NO OEM/manufacturer partnerships, NO team bios or founder name, NO project counts beyond the counters, NO accreditation badges"
+    ],
+    "site_features": [
+     "Contact form on /contact/ (WPForms plugin): Name (first/last), Email, Comment/Message only — generic, not a structured quote/RFQ form despite 'Get a Free Repair Estimate' hero CTA",
+     "Two phone numbers (+971-582494402, +971-4327061) and email hr@sultanmedicalrepair.com on Contact page; header phone is plain text, not a tel: link",
+     "NO WhatsApp button or wa.me link anywhere",
+     "NO live chat widget",
+     "NO Google Maps embed (address shown as text only: Office 203-1, Abdul Rahman Mohammed Hassan Alshaikh, Al Khabeesi, Dubai)",
+     "NO blog, NO FAQ, NO careers page, NO downloadable brochures",
+     "NO social media links (zero Facebook/Instagram/LinkedIn/etc.)",
+     "NO JSON-LD/schema.org markup; homepage <title> tag is EMPTY, no meta description, no OpenGraph tags — very weak SEO",
+     "Platform: WordPress 6.8.5 + Elementor 4.1.1; only 4 real pages (Home, About Us, Our Services at /our-businesses/, Contact)"
+    ],
+    "arabic_support": "none — html lang=en-US, no /ar/ path (404), no hreflang tags, no language switcher, no Arabic text anywhere in the HTML",
+    "brands_serviced": [],
+    "standout_items": [
+     "SECURITY: site appears hacked with cloaked SEO spam — robots.txt's Sitemap directive points to https://sultanmedicalrepair.com/zcae.php?s=202606061551, which serves a ~94KB spam sitemap (hundreds of zcae.php?id=... URLs) when fetched with a Googlebot user agent; wp-sitemap.xml also lists 681 fake /items/Oxxxxxxx/ URLs (daily changefreq) that return 404 to normal browsers",
+     "Zero equipment brand names (no GE, Philips, Mindray, Drager, etc.) — a brands-serviced list is a clear differentiator opportunity",
+     "No Arabic version at all",
+     "Sloppy/unfinished template copy: 'Laboratory Equipment Repair' description is duplicated for 'Support & Calibration Services' card; 'Long-Term Vision' card repeats the 'Service Contracts' text verbatim; stock business icons (growth-chart.png, joint-venture.png, real-estate-market.png) used for a medical company",
+     "Empty homepage <title> and no meta description/schema — essentially invisible to search beyond the brand domain",
+     "Testimonial is anonymous and reused in the footer of every page",
+     "Contact email is hr@ (not info@/service@); no dedicated RFQ/quote workflow, no WhatsApp despite UAE market norms",
+     "Mail-in/courier repair and remote diagnostics offered as distinct service models — relatively unusual offering worth noting",
+     "Hero CTA 'Get a Free Repair Estimate' has no dedicated landing/quote page (only the generic contact form)"
+    ]
+   },
+   "services_count": 16
+  },
+  {
+   "id": "raza",
+   "name": "Raza Medical Equipment",
+   "short": "Raza Medical",
+   "url": "https://razamedicalequipment.com/",
+   "category": "direct",
+   "emirate": "Dubai",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 0,
+     "n": "No contact form rendered despite form plugin installed"
+    },
+    "whatsapp": {
+     "v": 0
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 0
+    },
+    "tel": {
+     "v": 1,
+     "n": "Click-to-call in header"
+    },
+    "faq": {
+     "v": 1,
+     "n": "3 questions"
+    },
+    "blog": {
+     "v": 0,
+     "n": "Only default 'hello world' post"
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0
+    },
+    "schema": {
+     "v": 0
+    },
+    "shop": {
+     "v": 0
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 0.5,
+     "n": "Mentioned in body copy, not a service card"
+    },
+    "amc": {
+     "v": 0
+    },
+    "est": {
+     "v": 0
+    },
+    "install": {
+     "v": 0
+    },
+    "parts": {
+     "v": 0
+    },
+    "training": {
+     "v": 0
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "—",
+    "iso": "—",
+    "testimonials": "2 named individuals",
+    "client_logos": "—",
+    "oem_logos": "—",
+    "other": "'Certified technicians' claim (no certification named); 4-step working-process explainer; privacy policy page"
+   },
+   "notes": [
+    "Imaging repair list includes MRI — a heavy claim for a small shop (as listed on their site)"
+   ],
+   "raw": {
+    "name": "Raza Medical Equipment",
+    "url": "https://razamedicalequipment.com/",
+    "reachable": true,
+    "nav_sections": [
+     "Home",
+     "Services",
+     "About",
+     "Contact",
+     "Appointment (button, links to /contact/)",
+     "Footer: Quick Links (Home, About, Services, Contact, Privacy Policy)",
+     "Footer: Services list",
+     "Footer: Contact Info",
+     "Footer: Make an Appointment",
+     "Homepage sections: Hero, 3 value props (Certified Equipment Specialists / Quality & Compliance Assured / Best Service), About blurb, Our Specialties (6 services), Contact CTA, Testimonials, Subscribe",
+     "About page sections: About blurb, Our Working Process (4 steps), FAQ (Related Question, 3 Q&As)",
+     "Contact page sections: Get In Touch (office address, phone, email), Subscribe"
+    ],
+    "services_listed": [
+     "Diagnostic Repair (diagnostic machines)",
+     "Laboratory Maintenance (routine lab equipment maintenance)",
+     "Surgical Equipment Repair (surgical instruments and devices)",
+     "Imaging System Repairs (X-ray, ultrasound, MRI)",
+     "Sterilization Equipment (autoclaves and sterilizers maintenance/repair)",
+     "Preventive Maintenance (scheduled maintenance plans)",
+     "Calibration (mentioned in body copy for hospitals, clinics, laboratories, not a standalone service card)"
+    ],
+    "trust_signals": [
+     "Claims 'certified technicians' / 'Certified Equipment Specialists' (no specific certification or ISO number named)",
+     "'Quality & Compliance Assured' tagline (no named standard)",
+     "2 text testimonials: Mr. Omar Al Sharif ('Dependable and Affordable', surgical equipment) and Mr. Ramesh Patel ('Trusted Biomedical Experts', mentions relying on them 'for over two years')",
+     "Physical office address: Office 7011, Aspin Commercial Tower, World Trade Centre, Sheikh Zayed Road, Dubai, P.O. Box 92937",
+     "Two phone numbers (+971 52 431 4862 mobile, +971 4 578 6837 landline) and domain email",
+     "NO ISO certificates, NO client logos, NO OEM/brand partnerships, NO team bios, NO project counts, NO years-in-business figure, NO accreditations listed"
+    ],
+    "site_features": [
+     "Email newsletter subscribe form (Jeg Kit Mailchimp form, on every page)",
+     "Click-to-call tel: link in header (+971 52 431 4862)",
+     "FAQ section (3 questions, on About page only)",
+     "4-step 'Our Working Process' explainer (About and Services pages)",
+     "Privacy Policy page",
+     "WordPress 7.0 + Elementor 4.1.1 + Jeg Elementor Kit + ElementsKit + MetForm plugin installed + Site Kit by Google (analytics)",
+     "NO WhatsApp button (no wa.me link; only an Elementor share-config string)",
+     "NO live chat",
+     "NO contact/quote/RFQ form rendered (contact page shows only address/phone/email and the newsletter signup, despite MetForm plugin being installed)",
+     "NO Google Maps embed",
+     "NO blog (only the default WordPress 'hello-world' post is live)",
+     "NO careers page",
+     "NO social media links anywhere",
+     "NO downloadable brochures",
+     "NO JSON-LD/schema.org markup in source"
+    ],
+    "arabic_support": "none — site is English-only: html lang=\"en-US\", no hreflang tags, no language switcher, no Arabic text in source, and /ar/ returns 404",
+    "brands_serviced": [],
+    "standout_items": [
+     "BROKEN CTA: the homepage 'Get Started' hero button links to a misspelled URL https://razamedicalequipment.com/Contcat/ which returns 404",
+     "Leftover template text: About page section is labeled 'about chemiclab' (unedited theme demo text); 'Our Working Proccess' and 'Shiekh Zayed Road' typos throughout",
+     "Default WordPress 'hello-world' sample post still published and in the sitemap",
+     "No equipment brands named at all (no GE/Philips/Mindray/Drager etc.) — generic service descriptions only",
+     "Site credited to designer 'Webee' (imwebee.com) in footer",
+     "Very thin site: only 5 pages (Home, Services, About, Contact, Privacy Policy); Services page repeats the homepage's 6 service cards with no individual service detail pages",
+     "Tagline: 'Trusted Care for the Tools That Care for Patients'; serves hospitals, clinics, and laboratories across Dubai and the UAE",
+     "Despite testimonials, no verifiable client names/organizations, certifications, or partnerships — overall low trust-signal density compared to typical UAE biomedical service competitors"
+    ]
+   },
+   "services_count": 7
+  },
+  {
+   "id": "biomax",
+   "name": "Biomax Medical & Laboratory Equipment Repairing Co LLC",
+   "short": "Biomax",
+   "url": "https://biomaxmedicalservices.com/",
+   "category": "direct",
+   "emirate": "Dubai",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 1,
+     "n": "WPForms Lite"
+    },
+    "whatsapp": {
+     "v": 0
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 0
+    },
+    "tel": {
+     "v": null
+    },
+    "faq": {
+     "v": 0
+    },
+    "blog": {
+     "v": 0,
+     "n": "Only default 'Hello world!' post"
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0.5,
+     "n": "Icons point to platform homepages, not actual profiles"
+    },
+    "schema": {
+     "v": 0.5,
+     "n": "AIOSEO blocks, but Organization description is default 'My WordPress Blog'"
+    },
+    "shop": {
+     "v": 0
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 1
+    },
+    "amc": {
+     "v": 1,
+     "n": "'Comprehensive maintenance plans'"
+    },
+    "est": {
+     "v": 0
+    },
+    "install": {
+     "v": 0
+    },
+    "parts": {
+     "v": 0
+    },
+    "training": {
+     "v": 0
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "—",
+    "iso": "—",
+    "testimonials": "3 named (no organizations)",
+    "client_logos": "—",
+    "oem_logos": "—",
+    "other": "'Certified repair specialists' claim (no certificates named); no email address displayed anywhere"
+   },
+   "notes": [
+    "Schema description left as default 'My WordPress Blog'",
+    "Social icons link to platform homepages"
+   ],
+   "raw": {
+    "name": "Biomax Medical & Laboratory Equipment Repairing Co LLC",
+    "url": "https://biomaxmedicalservices.com/",
+    "reachable": true,
+    "nav_sections": [
+     "Services (same-page anchor #services)",
+     "Features (#features)",
+     "Testimonials (#testimonials)",
+     "Contact (#contact)",
+     "Page sections: Hero/Our Expertise, Expert Repairs (services cards), Features, CTA banner, Testimonials, Contact form + address footer",
+     "NOTE: single-page site - no real inner pages; only WordPress default stubs exist (/sample-page/, /hello-world/ post)"
+    ],
+    "services_listed": [
+     "Calibration and Testing",
+     "Preventive Maintenance (customized upkeep plans)",
+     "Emergency Repair Services (rapid response)",
+     "Expert Diagnostics / equipment evaluations",
+     "Precision Repairs",
+     "Comprehensive Maintenance Plans (tailored schedules)",
+     "General medical & laboratory equipment repair and servicing (no equipment categories or modalities specified)"
+    ],
+    "trust_signals": [
+     "3 text-only testimonials with names/titles but no organizations or photos: Dr. Ahmed Al-Mansoori (Head of Clinical Laboratory), Ms. Fatima Khalid (Senior Medical Technician), Mr. Omar Saeed (Laboratory Manager)",
+     "Claim of 'Certified Repair Specialists' / skilled technicians (no certificates named)",
+     "Physical Dubai address: Office#4, 5th Floor Al Abbas Building, Near HBL Bank, 118 Street Al Mankhool Road, Dubai, PO Box 805464; Tel +971-4-8804384",
+     "NO ISO certifications, NO years in business, NO client logos, NO OEM/brand partnerships, NO project counts, NO team bios, NO accreditations"
+    ],
+    "site_features": [
+     "Contact form (WPForms Lite: Name, Email, Subject, Message)",
+     "Social icons present but pointing to placeholder URLs (facebook.com/, instagram.com/, x.com/ homepages, not actual profiles)",
+     "JSON-LD schema.org markup via All in One SEO (Organization, WebSite, WebPage, BreadcrumbList) - but Organization description is the default 'My WordPress Blog'",
+     "XML sitemaps (AIOSEO)",
+     "NO WhatsApp button, NO live chat, NO quote/RFQ form, NO Google Maps embed, NO blog (only default 'Hello world!' post), NO FAQ, NO careers page, NO brochures, NO email address displayed"
+    ],
+    "arabic_support": "none - no /ar/ path (404), no hreflang tags, no language switcher, zero Arabic characters in HTML; site is en-US only",
+    "brands_serviced": [],
+    "standout_items": [
+     "Essentially an unfinished template: a generic single-page WordPress theme ('Extendable') with stock copy; one section still contains placeholder text 'This section describes the key features briefly.'",
+     "Site is very new: homepage published 2025-07-08, last modified 2025-08-18; og:site_name still reads 'My WordPress Blog'",
+     "Default WordPress 'Sample Page' and 'Hello world!' post still live and indexed in sitemap",
+     "No equipment brands, no equipment types, no certifications, no email - phone and contact form are the only real conversion paths",
+     "Testimonials appear generic/templated (no companies, no photos)",
+     "Competitive takeaway: this competitor's site offers almost nothing beyond a contact form; the only things present worth matching are basic schema.org markup and an XML sitemap"
+    ]
+   },
+   "services_count": 7
+  },
+  {
+   "id": "meditron",
+   "name": "Meditron Healthcare Technologies LLC (MHT)",
+   "short": "Meditron",
+   "url": "https://meditron.ae/",
+   "category": "direct",
+   "emirate": "Dubai",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 0,
+     "n": "Contact page lists only email/WhatsApp/address"
+    },
+    "whatsapp": {
+     "v": 1
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 1
+    },
+    "tel": {
+     "v": null
+    },
+    "faq": {
+     "v": 0
+    },
+    "blog": {
+     "v": 0,
+     "n": "/blog.html repurposed as Projects page"
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 1,
+     "n": "Facebook, X, YouTube, Instagram"
+    },
+    "schema": {
+     "v": 0.5,
+     "n": "Minimal Organization (name + url)"
+    },
+    "shop": {
+     "v": 0.5,
+     "n": "Product catalog with search, no cart"
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1,
+     "n": "Per DHA/MOH/DOH/JCI guidelines"
+    },
+    "calibration": {
+     "v": 1
+    },
+    "amc": {
+     "v": 1
+    },
+    "est": {
+     "v": 1
+    },
+    "install": {
+     "v": 1,
+     "n": "Commissioning + turnkey clinic setup"
+    },
+    "parts": {
+     "v": 1,
+     "n": "In-house workshop + spare parts stock"
+    },
+    "training": {
+     "v": 1,
+     "n": "User training"
+    },
+    "radiation": {
+     "v": 1,
+     "n": "X-ray QC per FANR by MOH-licensed physicist"
+    }
+   },
+   "trust": {
+    "years": "Established 2008",
+    "iso": "—",
+    "testimonials": "8+ named with facility names",
+    "client_logos": "—",
+    "oem_logos": "6",
+    "other": "Strongest compliance framing in the set: DHA/MOH/DOH/JCI guidelines, DAC-approved calibration of test instruments, EST reports, validity stickers"
+   },
+   "notes": [],
+   "raw": {
+    "name": "Meditron Healthcare Technologies LLC (MHT)",
+    "url": "https://meditron.ae/",
+    "reachable": true,
+    "nav_sections": [
+     "Home",
+     "Products (Dental Products > Equipment, Medical Products > Equipment, Other Products)",
+     "Services (Biomedical Maintenance Services, User Training, Medical Equipment Planning, Commissioning of Medical Equipment, Regulatory Compliance)",
+     "Softwares (Artificial intelligence)",
+     "Gallery (Photo, Videos)",
+     "Projects (lives at /blog.html)",
+     "Contact Us",
+     "Product catalog side categories: Dental Equipment, General & Emergency, Laboratory Equipment, ENT, Gynaecology, Radiology, Physiotherapy & Rehab, Critical Care/ICU & OT, Lasers, Podiatry Systems, Ambulances, Hospital Furniture, Repair and Maintenance, Refurbished Equipment, Veterinary Equipment, Tap2SOS, Test Equipments, CMMS, Asset/RFID Tags, Barcode Printers, Mobile Devices, Spares & Accessories, Dental Consumables, Medical Consumables"
+    ],
+    "services_listed": [
+     "PPM (Periodic Preventive Maintenance) of medical & dental equipment per DHA/MOH/DOH/JCI guidelines",
+     "AMC (Annual Maintenance Contracts)",
+     "Breakdown repair & maintenance with in-house workshops and spare parts stock",
+     "Electrical safety testing (EST) with calibrated test equipment",
+     "Performance testing & simulation (simulators for defibrillators, monitors, infusion pumps)",
+     "Equipment calibration and asset inventory",
+     "X-ray QC per FANR guidelines by MOH-licensed Medical Physicist; lead apron QC",
+     "FANR licensing consultation for clinics",
+     "User training on medical equipment",
+     "Medical equipment planning",
+     "Commissioning of medical equipment",
+     "Regulatory compliance services",
+     "Turnkey clinic setup/projects: licensing consultation (economic dept, health dept, municipality, civil defence), layouts, fit-outs, BOQ, vendor quote comparison, medical staffing/HR, soft opening, post-opening management support",
+     "Sales of dental & medical equipment (chairs, X-rays/CBCT, autoclaves, sensors, compressors, suction, cabinets, ECG, oximeters, ventilators, defibrillators, lab, ENT, gynecology, physiotherapy/rehab, OT/ICU, aesthetic, lasers, podiatry)",
+     "Specialized items: mortuary systems, X-ray room lead lining & partitioning, custom-made ambulances, hospital furniture, refurbished equipment, veterinary equipment",
+     "CMMS / asset management software ('ME serve') and biomedical maintenance management software",
+     "AI automation software for X-ray and clinic management; Tap2SOS product",
+     "Continuous supply of medical & dental consumables; IT equipment & support; signage and printing for clinics"
+    ],
+    "trust_signals": [
+     "Established in Dubai in 2008 by a team of biomedical engineers (stated on homepage)",
+     "Compliance framing: PPM/AMC per DHA, MOH, DOH and JCI requirements/guidelines",
+     "X-ray QC reports per FANR guidelines performed by MOH-licensed Medical Physicist",
+     "Test equipment from European/American brands, calibrated annually by DAC-approved calibration firms",
+     "PPM deliverables listed: 1-year contract, equipment checklists, EST reports, calibration certificates, validity stickers, FANR QC reports",
+     "8+ named client testimonials with person + facility names: Frontline (IT partner), Skin Experts Polyclinic, Cocoona Day Surgical Centre, Move Freely Physiotherapy Centre, Dr. Kamkar Medical & Physiotherapy Center, Damas Medical Center, Samaa Fertilization Center, Charme Day Surgery, Med Art Clinic Day Surgery Center",
+     "No ISO certifications claimed anywhere on site",
+     "No client logos, no team bios, no project counts/stat counters"
+    ],
+    "site_features": [
+     "WhatsApp click-to-chat button (wa.me/971503635960)",
+     "Social links: Facebook, Twitter/X, YouTube, Instagram",
+     "Google Maps embed (on Contact Us page only)",
+     "Photo and video gallery sections (sigPro image galleries)",
+     "Testimonials carousel on homepage",
+     "Product catalog (DJ-Catalog) with category filter and keyword search forms",
+     "JSON-LD schema.org markup present but minimal (Organization with name + url only)",
+     "No quote/RFQ or contact form (contact page lists only email, WhatsApp, address)",
+     "No live chat, no FAQ, no careers page, no downloadable brochures/PDFs",
+     "No blog (the /blog.html URL is repurposed as the Projects page)",
+     "Built on Joomla 3.10.12; fully server-rendered; footer credits 'Designed by Frontline'; copyright 2026"
+    ],
+    "arabic_support": "none — no /ar/ path (404), no hreflang tags, no language switcher, zero Arabic characters in HTML; English only",
+    "brands_serviced": [
+     "No major OEMs named (no GE, Philips, Mindray, Drager, Siemens etc.) — site only says it 'deals with all major brands' of dental and medical equipment",
+     "Product brands actually named on catalog pages (sold, not explicitly serviced): Endograph DC (dental intraoral X-ray)",
+     "Joident (Class B autoclaves)",
+     "Owandy (intraoral digital sensors)",
+     "Fussen (imaging plate scanner F200)",
+     "Sourcing claims by origin rather than brand: dental X-rays from 'Europe & China', suction machines from 'Germany, Turkey & Taiwan'"
+    ],
+    "standout_items": [
+     "Turnkey clinic setup offering goes far beyond equipment: trade licensing through economic dept/health authority/civil defence, fit-outs, BOQ preparation, medical staffing/HR, soft opening and post-opening management support",
+     "FANR X-ray licensing consultation and FANR-compliant QC by an MOH-licensed Medical Physicist — a niche regulatory service worth benchmarking",
+     "Own CMMS/asset-management software ('ME serve') and an 'AI automation' software line (X-ray AI, clinic automation) marketed alongside services",
+     "Custom-made ambulances and mortuary systems in the product range (also in the homepage title tag)",
+     "X-ray room lead lining/partitioning and refurbished + veterinary equipment as secondary lines",
+     "Named testimonials from identifiable Dubai clinics — strong social proof despite no logos",
+     "Notable gaps competitors could exploit: no contact/RFQ form at all, no ISO certifications, no Arabic version, no FAQ/careers/brochures, minimal schema markup, dated Joomla 3.x platform",
+     "Contact details: info@meditron.ae, +971 4 2510268, WhatsApp +971 50 363 5960, Al Qusais Business Center, Al Qusais 2, Dubai (PO Box 232698)"
+    ]
+   },
+   "services_count": 18
+  },
+  {
+   "id": "vital",
+   "name": "Vital Medical Equipments LLC",
+   "short": "Vital Medical",
+   "url": "https://vitalmedllc.com/",
+   "category": "direct",
+   "emirate": "Abu Dhabi",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 1,
+     "n": "Basic enquiry form (PHP handler)"
+    },
+    "whatsapp": {
+     "v": 1
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 0.5,
+     "n": "Embed shows generic Abu Dhabi city, not their Mussafah office"
+    },
+    "tel": {
+     "v": null
+    },
+    "faq": {
+     "v": 0
+    },
+    "blog": {
+     "v": 0
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0.5,
+     "n": "Single Facebook icon with empty href"
+    },
+    "schema": {
+     "v": 0
+    },
+    "shop": {
+     "v": 0
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 0.5,
+     "n": "Within PPM scope"
+    },
+    "amc": {
+     "v": 0
+    },
+    "est": {
+     "v": 1
+    },
+    "install": {
+     "v": 0.5,
+     "n": "Mentioned in passing"
+    },
+    "parts": {
+     "v": 0
+    },
+    "training": {
+     "v": 0
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "Established 2013",
+    "iso": "—",
+    "testimonials": "—",
+    "client_logos": "—",
+    "oem_logos": "—",
+    "other": "Names its test-instrument brands (Fluke Biomedical, BC Biomedical, Ohmic, Ophir); 13-segment 'industries we serve' list; breakdown support explicitly Mon–Fri 8–5 (no 24/7 claim)"
+   },
+   "notes": [
+    "Contact emails are hotmail/gmail (no domain email)",
+    "Map embed is a generic city view"
+   ],
+   "raw": {
+    "name": "Vital Medical Equipments LLC",
+    "url": "https://vitalmedllc.com/",
+    "reachable": true,
+    "nav_sections": [
+     "Home",
+     "About Us",
+     "Our Services",
+     "Industries We Serve",
+     "Contact Us",
+     "Phone CTA in nav: +971525815043",
+     "NOTE: single-page site - all nav links are same-page anchors (#home, #about, #services, #industries, #contact); no inner pages exist (about.html/services.html/sitemap.xml all 404)"
+    ],
+    "services_listed": [
+     "Planned Preventive Maintenance [PPM] - lubrication, calibration, cleaning, replacement of wear parts",
+     "Electrical Safety Testing [EST] - fire/shock/safety hazard testing of medical devices",
+     "Medical Equipment Service & Repair",
+     "Breakdown Call Support Service (Mon-Fri, 08:00-17:00) - heading misspelled on site as 'SRERVICE'",
+     "Installation & commissioning (mentioned in passing within breakdown-service text)",
+     "Consultation (mentioned in passing)",
+     "Asset & inventory management (mentioned in passing)"
+    ],
+    "trust_signals": [
+     "Established 2013 (stated in About Us)",
+     "Claims to be 'one among the leading Biomedical service providers in UAE' with 'highly experienced Biomedical Engineers and Technicians' (no names, count, or bios)",
+     "Claims 'several projects executed for prestigious clients in UAE' - but zero client names or logos shown",
+     "Names the biomedical TEST equipment brands they use: Rigal, Fluke Biomedical, BC Biomedical, Ohmic Instruments, Ophir",
+     "Physical address given: Office no:4, Plot no 193, Mussafah Sanayya M-37, Abu Dhabi, UAE",
+     "NO ISO certifications, NO accreditations, NO testimonials, NO project counts, NO team bios, NO partner/OEM logos anywhere (the page template has testimonial/portfolio/counter sections but they are empty/commented out in the HTML source)"
+    ],
+    "site_features": [
+     "Floating WhatsApp click-to-chat button (wa.me link to +971525815043, pre-filled 'Hi')",
+     "Contact form ('Send Us A Message': name, email, phone, address, message) posting to contact-form-handler.php with legacy JS validation - functions as a basic enquiry/RFQ form",
+     "Google Maps embed - but it is a generic Abu Dhabi city embed, not a pin to their actual Mussafah office",
+     "Two contact emails (vitalmedicalequipments@hotmail.com, vitalmedicalme@gmail.com - free webmail, no domain email) and two phones (+971525815043, +971563711540)",
+     "Industries We Serve list: Hospitals, Medical Centers, Ambulance, Mobile Clinics, Dental Clinics, One Day Surgery Centre, Pharmacies, School Clinics, Air/Mobile Ambulance, On/Off Shore Clinics, Home Health Care Centers, Aviation, Diagnostic Centers",
+     "One Facebook icon in footer with an EMPTY href (dead link); no other social links",
+     "NO live chat, NO blog, NO FAQ, NO careers page, NO downloadable brochures, NO JSON-LD/schema.org markup, NO favicon (empty href)"
+    ],
+    "arabic_support": "none - lang=\\\"en\\\" only, no /ar/ path (404), no hreflang tags, no language switcher, zero Arabic characters anywhere in the HTML",
+    "brands_serviced": [
+     "NONE listed - the site names no OEM equipment brands it services (no GE, Philips, Mindray, Drager, etc.). The only brands mentioned are test-instrument makers they use for servicing: Rigal, Fluke Biomedical, BC Biomedical, Ohmic Instruments, Ophir"
+    ],
+    "standout_items": [
+     "SSL is broken: the site serves a SELF-SIGNED certificate (plain curl fails, browsers will show a full-page security warning before users ever see the site) - a major credibility/SEO liability for them",
+     "Entire site is one static page (old Bootstrap 3 + Revolution Slider template); copyright says 2022 and content appears untouched since",
+     "Web-agency template leftover: the company logo's alt text reads 'Mamz Advertisers' (the firm that built the site)",
+     "Visible typos in headline content: 'BREAKDOWN CALL SUPPORT SRERVICE' (also in the <title> tag) and 'Breakedown' in body copy; the <title> is a keyword-stuffed pipe-list rather than a proper page title",
+     "Their 'Industries We Serve' list is unusually broad and specific (air ambulance, on/off-shore clinics, school clinics, aviation) - the one content idea worth borrowing if our site lacks an industries section",
+     "Breakdown support is explicitly limited to Mon-Fri 8am-5pm - no 24/7 claim, an easy differentiator to position against",
+     "Uses free hotmail/gmail addresses instead of @vitalmedllc.com email - weak professional signal",
+     "Competitive takeaway: this competitor has essentially no SEO (no schema, no sitemap, no robots.txt, broken SSL, no inner pages), no Arabic, no certifications, and no client proof - a very low bar"
+    ]
+   },
+   "services_count": 7
+  },
+  {
+   "id": "cyrix",
+   "name": "CYRIX-TSL (Cyrix Healthcare / Technical Services Lab)",
+   "short": "Cyrix-TSL",
+   "url": "https://cyrix-tsl.com/",
+   "category": "direct",
+   "emirate": "Dubai + 5 offices (MENA)",
+   "features": {
+    "arabic": {
+     "v": 0,
+     "n": "/ar/ returns a byte-identical English copy (soft duplicate)"
+    },
+    "form": {
+     "v": 1,
+     "n": "Get-a-Quote offcanvas form on every page, with reCAPTCHA"
+    },
+    "whatsapp": {
+     "v": 0
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 0.5,
+     "n": "Per-office links only — no embed"
+    },
+    "tel": {
+     "v": null
+    },
+    "faq": {
+     "v": 0
+    },
+    "blog": {
+     "v": 1,
+     "n": "5 posts Jan–Feb 2026"
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0.5,
+     "n": "IG/X/LinkedIn — parent-company TSL accounts"
+    },
+    "schema": {
+     "v": 0,
+     "n": "Only basic OG tags"
+    },
+    "shop": {
+     "v": 1,
+     "n": "External store cyrixhealthcare.com"
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 1
+    },
+    "amc": {
+     "v": 1
+    },
+    "est": {
+     "v": 0
+    },
+    "install": {
+     "v": 1,
+     "n": "IQ/OQ/PQ qualification"
+    },
+    "parts": {
+     "v": 0.5,
+     "n": "Equipment & consumables supply (incl. used/re-certified per footer)"
+    },
+    "training": {
+     "v": 1,
+     "n": "Clinical application & training"
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "Since 2011 (timeline back to 2004, India)",
+    "iso": "—",
+    "testimonials": "—",
+    "client_logos": "~23 incl. government health bodies (Saudi MoH, Kuwait MoH, SEHA)",
+    "oem_logos": "~40",
+    "other": "Counters: 620+ certified professionals, 6,400+ clients; claims to be the only MENA company doing board-level biomedical repair"
+   },
+   "notes": [
+    "Footer discloses equipment may be used/surplus/re-certified",
+    "Social accounts belong to parent company TSL"
+   ],
+   "raw": {
+    "name": "CYRIX-TSL (Cyrix TSL — Cyrix Healthcare / Technical Services Lab)",
+    "url": "https://cyrix-tsl.com/",
+    "reachable": true,
+    "nav_sections": [
+     "Home",
+     "About us",
+     "Services (dropdown: Repair & Maintenance, Servicing & Calibration, Supply)",
+     "Divisions",
+     "Brands",
+     "Blogs",
+     "Contact us",
+     "Shop now (button, external link to cyrixhealthcare.com/Shop/)",
+     "Get a quote (button, opens offcanvas form)",
+     "Footer: 6 office locations (Riyadh, Jeddah, Dammam, Kuwait, Dubai UAE, Kochi India) with Google Maps links",
+     "Footer: Privacy Policy, link to parent industrial company TSL (tsl-me.com)",
+     "Hidden but live page: locations.php (commented out of nav)",
+     "Homepage sections: hero video banner, About blurb, stats counters, features list, Our Divisions carousel, Our Services, country map (Saudi Arabia | Kuwait | UAE | India)"
+    ],
+    "services_listed": [
+     "Repair & Maintenance — biomedical board-level repair (PCB/component-level; claims to be the only MENA company doing this)",
+     "Servicing & Calibration — testing & calibration of critical care, diagnostic, therapeutic, radiology and lab equipment; on-site service; round-the-clock team",
+     "Supply of Equipment & Consumables (new, used, surplus, re-certified per footer disclaimer)",
+     "Annual Maintenance Contracts (AMC)",
+     "Preventive maintenance programs",
+     "Installation & Commissioning (IQ/OQ/PQ qualification)",
+     "Clinical Application & Training (user training on devices)",
+     "Quality Assurance",
+     "Equipment audits and maintenance/calibration record-keeping",
+     "Equipment categories repaired/serviced: anesthetic workstations, patient monitors, ventilators, X-ray, ultrasound, infusion pumps, infant warmers/incubators, defibrillators, autoclaves/sterilizers, ECG, laser machines, dental chairs, blood bank refrigerators, ICU beds, surgical diathermy, physiotherapy equipment",
+     "Divisions (product verticals): Lab Diagnostic, Radiology (incl. CT, MRI, mammography), Surgical Care, Critical Care, OR Solutions, Cardiac Care (incl. cathlab), Gynecology, Consumables (imaging papers, syringes, cannulas, IV sets, ECG cables, SpO2/O2 sensors, NIBP hoses, batteries), ENT, Dental, Dermatology (aesthetic machines)"
+    ],
+    "trust_signals": [
+     "Operating across MENA since 2011 (homepage); journey timeline graphic dates back to 2004 (Cyrix India established)",
+     "620+ certified professionals (stat counter)",
+     "6,400+ clients served in the past 10 years (stat counter)",
+     "8+ locations worldwide (stat counter)",
+     "USP claim: 'the only company specializing in Biomedical Electronics Repair to the board level' in MENA",
+     "~40 OEM brand logos on Brands page and homepage logo marquee",
+     "'Our Serviced Hospitals' client logo marquee (~23 logos) incl. government bodies: Saudi Ministry of Health, Kuwait Ministry of Health, SEHA (Abu Dhabi Health Services), King Saud Medical City, Sultan Bin Abdulaziz Humanitarian City, Sheikh Khalifa Medical City Ajman; plus Dr. Sulaiman Al Habib, Saudi German Health, Tawam Hospital, Al Ain Hospital, Al Dhafra Hospitals, Kanad Hospital, Zulekha Hospital, Zahrawi, One Health, New Mowasat, Taiba Hospital, Al Salam International, Alia International, Al Seef Hospital, Kuwait Hospital, Hadi Clinic, International Hospital",
+     "Journey milestones: 'fastest growing company national award' (2015), first government contract in Kuwait (2019), Dubai branch (2020), first government contract in Saudi (2021)",
+     "Vision & Mission statements on About page",
+     "NO ISO certifications or accreditations mentioned anywhere on the site",
+     "No testimonials, no team bios, no case studies",
+     "Notable counter-signal: footer disclaimer states Cyrix TSL is NOT an authorized distributor/affiliate of the brands it carries; sells new/used/surplus/re-certified products with its own 1-year warranty (not the manufacturer's)"
+    ],
+    "site_features": [
+     "Get a Quote offcanvas form on every page (name, email, phone, location dropdown for 6 offices, message, Google reCAPTCHA)",
+     "Contact form on contact.php",
+     "'Shop now' button linking to external e-commerce store at cyrixhealthcare.com/Shop/",
+     "Active blog (5 posts dated Jan–Feb 2026, OEM/MedTech lifecycle thought-leadership and WHX Dubai 2026 trade-show content)",
+     "Google Maps links per office in footer (links only — no embedded map iframe)",
+     "Social links: Instagram (@tslcom), Twitter/X (@tsl_mecompany), LinkedIn (tsl-me) — all parent-company TSL accounts, not Cyrix-specific",
+     "Tracking: Google Ads gtag (AW-17425748200) and LinkedIn Insight Tag (partner id 8568924)",
+     "Homepage autoplay background video; animated brand and client-hospital logo marquees (CSS sprite images)",
+     "Trade-show popup for WHX Dubai 2026 (currently commented out in source; landing page cyrix-tsl-whx-dubai-2026.php still live)",
+     "Privacy Policy page",
+     "NO WhatsApp button, NO live chat, NO FAQ, NO careers page, NO downloadable brochures, NO JSON-LD/schema.org markup (only basic Open Graph meta tags)",
+     "Site is static PHP pages (Bootstrap 5, jQuery, Owl Carousel, AOS); built by KENPRIMO (commented credit)"
+    ],
+    "arabic_support": "none — site is English-only: html lang=\\\"en\\\", no hreflang tags, no language switcher, no Arabic text in HTML; /ar/ and index-ar.php return soft-200 responses that are byte-identical to the English homepage. The only Arabic visible is inside client hospital logo images.",
+    "brands_serviced": [
+     "Named in supply page text: Siemens, GE Healthcare, Philips, Mindray, Toshiba, Schiller",
+     "Shown as logos on Brands page / homepage marquee (under heading 'REPAIR | SERVICING | SUPPLY'): Siemens",
+     "Samsung",
+     "Toshiba",
+     "Philips",
+     "Zimmer Biomet",
+     "Abbott",
+     "Roche",
+     "Boston Scientific",
+     "DEKA",
+     "Olympus",
+     "SonoScape",
+     "EDAN",
+     "GE Healthcare",
+     "Stryker",
+     "Candela",
+     "Medtronic",
+     "SonoSite",
+     "ConMed",
+     "Mindray",
+     "Aloka",
+     "Midmark",
+     "Wolf Healthcare",
+     "Spacelabs Healthcare",
+     "Schiller",
+     "Bionet",
+     "A-dec",
+     "Coolermed",
+     "Dentsply Sirona",
+     "Hermle",
+     "Cynosure",
+     "Fresenius Medical Care",
+     "Heal Force",
+     "Hillrom",
+     "LINET",
+     "Lutronic",
+     "Karl Storz",
+     "Pentax Medical",
+     "Varian",
+     "Symrise",
+     "Ciyan"
+    ],
+    "standout_items": [
+     "Strong differentiating USP: board-level (component-level) electronics repair of biomedical equipment, claimed as unique in MENA — heavily repeated across pages",
+     "Large client logo wall featuring government health authorities (Saudi MoH, Kuwait MoH, SEHA Abu Dhabi) and major hospital groups — strong social proof",
+     "Concrete stat counters (620+ staff, 6,400+ clients, 8+ locations) plus an interactive 'Our Journey' timeline (2004–2021) with milestones incl. government contracts",
+     "External e-commerce shop (cyrixhealthcare.com/Shop/) linked via prominent 'Shop now' nav button",
+     "Active, current blog used for trade-show marketing (WHX/Arab Health-style events) — posts as recent as Feb 2026, plus a dedicated WHX Dubai 2026 landing page and (disabled) entry popup",
+     "Multi-country quote form that routes by office location (Riyadh/Jeddah/Dammam/Kuwait/UAE/India)",
+     "Paid-acquisition infrastructure: Google Ads conversion tag + LinkedIn Insight tag",
+     "Cross-branding with parent industrial company TSL (tsl-me.com) in footer",
+     "Dermatology/aesthetics division (hydrafacial, laser hair removal, cryolipolysis) — beyond classic biomedical",
+     "Gaps competitors could exploit: no ISO/accreditation claims, no Arabic version, no WhatsApp/live chat, no careers page, no FAQ, no schema markup, no testimonials; and an unusual public disclaimer admitting non-authorized-distributor status and used/surplus/re-certified product sales with only a 1-year house warranty"
+    ]
+   },
+   "services_count": 11
+  },
+  {
+   "id": "alwan",
+   "name": "Alwan Alamal Medical & Laboratory Equipment Repairing Est",
+   "short": "Alwan Alamal",
+   "url": "https://alamalmedical.com/",
+   "category": "direct",
+   "emirate": "Dubai",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 0.5,
+     "n": "Form has no action attribute (static HTML export) — submission likely non-functional"
+    },
+    "whatsapp": {
+     "v": 0
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 1,
+     "n": "Umm Ramool location"
+    },
+    "tel": {
+     "v": 0.5,
+     "n": "Header tel: dials a number not displayed anywhere on the site"
+    },
+    "faq": {
+     "v": 0
+    },
+    "blog": {
+     "v": 0
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0
+    },
+    "schema": {
+     "v": null
+    },
+    "shop": {
+     "v": 0
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 1
+    },
+    "amc": {
+     "v": 0.5,
+     "n": "Preventive programs; no AMC/CMC naming"
+    },
+    "est": {
+     "v": 1
+    },
+    "install": {
+     "v": 0
+    },
+    "parts": {
+     "v": 1,
+     "n": "Supplier of equipment & disposables"
+    },
+    "training": {
+     "v": 1,
+     "n": "Training & technical assistance"
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "'Over four years of experience'",
+    "iso": "—",
+    "testimonials": "—",
+    "client_logos": "—",
+    "oem_logos": "—",
+    "other": "Counters: 50+ customers, 100+ equipments, 10+ employees; heavy dental device list; multilingual staff claim"
+   },
+   "notes": [
+    "mailto link malformed (info@www.alamalmedical.com)",
+    "Header tel: number doesn't match any displayed number"
+   ],
+   "raw": {
+    "name": "Alwan Alamal Medical & Laboratory Equipment Repairing Est",
+    "url": "https://alamalmedical.com/",
+    "reachable": true,
+    "nav_sections": [
+     "Home",
+     "About",
+     "Products (/products/)",
+     "Services (/services/)",
+     "Repairing (/repairing/)",
+     "Contact",
+     "Footer: Quick Links (Home, About us, Contact us), What We Do (Services, Products, Repairing), For Support (phones/email/address)"
+    ],
+    "services_listed": [
+     "Medical & laboratory equipment repair and maintenance (Dubai-based)",
+     "Preventive maintenance programs (customized, regular check-ups)",
+     "Calibration & inspection of medical equipment",
+     "Electrical Safety Testing",
+     "Testing and calibration of biomedical equipment",
+     "On-call services",
+     "Training and technical assistance (mentioned in services intro blurb)",
+     "Supply of medical & surgical equipment and disposables (supplier role, public & private healthcare sectors)",
+     "Equipment types serviced/repaired (listed on Repairing and Products pages): Dental Chair, CBCT/OPG Machine, Dental Suction Machine, Dental X-Ray Machine, Dental Air Compressor, Autoclave Unit, Light Cure, Endo Motor & Apex Locator, 'ECO Machine' (sic), Defibrillator (spelled 'DEFIBRILATOR'), ECG Machine, Holter, Blood Pressure Monitor (spelled 'BLOOD PREESSURE'), Stress Test System, ENT Unit"
+    ],
+    "trust_signals": [
+     "'Over four years of experience' (only longevity claim)",
+     "Animated counter stats: 50+ Happy Customers, 100+ Equipments, 10+ Skilled Employees, 98% Satisfaction",
+     "Claims 'skilled biomedical team' and 'multilingual staff'",
+     "Claims client base in public and private healthcare sectors across the GCC and Africa",
+     "Mission/Vision statements and 'Why Choose Us' bullets (Quality Products, Comprehensive Solutions, Innovation, Customer-Centric)",
+     "NO ISO certifications, NO accreditations (no MOHAP/DHA mention), NO client names/logos, NO OEM/brand partnerships, NO testimonials, NO team bios, NO project case studies"
+    ],
+    "site_features": [
+     "Contact/'Leave a Message' form on /contact/ (Elementor form: First Name, Mobile Number, Email, Message — no action attribute; site is a static HTML export so submission likely non-functional)",
+     "Newsletter subscribe form in footer on every page (posts to newsletter.php)",
+     "Google Maps embed on contact page (Umm Ramool, Dubai location)",
+     "Click-to-call tel: link in header — but it dials +971 44 518 366, which does not match any displayed number (likely template leftover)",
+     "mailto link is broken: 'mailto: info@www.alamalmedical.com' (extra www. in domain)",
+     "NO WhatsApp chat button (only an unused Elementor share-buttons config string), NO live chat, NO quote/RFQ form, NO blog, NO FAQ, NO careers page, NO social media links, NO downloadable brochures, NO JSON-LD/schema.org markup"
+    ],
+    "arabic_support": "none — English only (lang=\\\"en-US\\\"); no /ar/ paths, no language switcher, no hreflang tags, zero Arabic characters in any page source",
+    "brands_serviced": [],
+    "standout_items": [
+     "Zero OEM/equipment brand names anywhere on the site (no GE, Philips, Mindray, Drager, Sirona, etc.) — they list equipment categories only, heavily dental-focused (9 of 15 items are dental)",
+     "Site is a static HTML export of a WordPress/Elementor build (nav links point to about/index.html etc.), so the contact and newsletter forms probably do not work — combined with the broken mailto and mismatched tel: link, lead capture appears largely broken",
+     "Claims regional reach beyond UAE: 'GCC and Africa' / 'Middle East and Africa' market positioning",
+     "Three phone numbers displayed: +9714 234 4176, +971 4 834 0053, +971 54 317 9414; address: Office 10-2F, Bin Shabib Bldg., 15th St., Umm Ramool, Dubai",
+     "Numerous typos/quality issues in customer-facing copy: 'DEFIBRILATOR', 'BLOOD PREESSURE', 'ECO MACHINE' (presumably Echo), 'HAppy Customers', 'Send MEssage' — low content polish overall",
+     "Products and Repairing pages are essentially the same 15-item equipment list with no individual product pages, specs, or photos catalogued per item",
+     "Only 6 pages total; no SEO infrastructure (no schema markup, no blog), making this a thin competitor site overall"
+    ]
+   },
+   "services_count": 9
+  },
+  {
+   "id": "alsarm",
+   "name": "Alsarm Medical & Laboratory Equipment Repairing",
+   "short": "Alsarm",
+   "url": "https://alsarmmedical.com/",
+   "category": "direct",
+   "emirate": "UAE (no street address shown)",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 1,
+     "n": "Elementor Pro form, all fields required"
+    },
+    "whatsapp": {
+     "v": 1,
+     "n": "Chaty widget + all 5 'Get Quotation' buttons open WhatsApp"
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 0.5,
+     "n": "Footer map is a country-level UAE view; contact-page embed points to the London Eye, UK (template default)"
+    },
+    "tel": {
+     "v": 0.5,
+     "n": "Phone channel via Chaty widget"
+    },
+    "faq": {
+     "v": 0
+    },
+    "blog": {
+     "v": 0
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0
+    },
+    "schema": {
+     "v": 0
+    },
+    "shop": {
+     "v": 0
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 0
+    },
+    "calibration": {
+     "v": 0
+    },
+    "amc": {
+     "v": 0
+    },
+    "est": {
+     "v": 0
+    },
+    "install": {
+     "v": 0
+    },
+    "parts": {
+     "v": 0
+    },
+    "training": {
+     "v": 0
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "'15+ years' counter",
+    "iso": "—",
+    "testimonials": "3 named with organizations",
+    "client_logos": "—",
+    "oem_logos": "—",
+    "other": "Niche focus: medical refrigeration/freezers, centrifuges, incubators, mortuary units; counters: 2K+ clients, 4.7 rating"
+   },
+   "notes": [
+    "Contact-page map embed points to London Eye, London",
+    "'Why choose us' copy references the construction industry (template leftover)",
+    "Address shown only as 'United Arab Emirates'"
+   ],
+   "raw": {
+    "name": "Alsarm Medical & Laboratory Equipment Repairing",
+    "url": "https://alsarmmedical.com/",
+    "reachable": true,
+    "nav_sections": [
+     "Home",
+     "Our Services",
+     "Contact Us",
+     "About Us",
+     "Appointment (button, links to Contact Us page)",
+     "Homepage sections: Hero, Our Services, stats counters, Why Choose Us, About Us, Our Expertise, Testimonials (What People Say About Us)",
+     "Footer: Contact, Useful Links, Service Area (Google Maps embed of UAE)"
+    ],
+    "services_listed": [
+     "Medical Refrigerators repair (incl. deep freezers and ultra-low temperature freezers)",
+     "Medical Centrifuges repair (routine maintenance to emergency repairs)",
+     "Incubators repair",
+     "Mortuary Units repair",
+     "General Laboratory Equipment repair (positioned as one-stop solution)"
+    ],
+    "trust_signals": [
+     "Animated stat counters: 2K+ Happy Clients, 4.7 Client Rating, 15+ Years of Experience",
+     "3 text testimonials with named clients: Dr. Aisha Hassan (Al Noor Hospital), Dr. Khalid Al Mansoori (Emirates Diagnostic Center), Dr. Leila Farouk (Dubai Research Lab) — text only, no logos",
+     "Claims: expert/skilled technicians, prompt service, quality assurance, customer satisfaction",
+     "NO ISO certifications, NO accreditations, NO client logos, NO OEM/brand partnerships, NO team bios or photos, NO project counts beyond the counters",
+     "Contradictory template leftover in Why Choose Us: 'Over 14 years in the construction industry', 'More than 20 highly trained workers', 'Professional Engineers: Expertise in civil and structural engineering' — construction-template text never replaced"
+    ],
+    "site_features": [
+     "WhatsApp: floating Chaty chat widget (v3.5.7) with two channels — Phone (+971 56 344 1782) and WhatsApp (same number); all 5 'Get Quotation' buttons also link to web.whatsapp.com/send with no pre-filled message text",
+     "Quote/contact form: Elementor Pro form on /contact-us/ with Name, Email, Phone (numeric pattern validation), Message — all required",
+     "Google Maps embeds: footer 'Service Area' map of generic 'United Arab Emirates' (zoom 10); contact page has a second embed incorrectly pointing to 'London Eye, London, United Kingdom' (template default never changed)",
+     "Contact info: phones +971 56 344 1782 / +971 56 485 0178, email info@alsarmmedical.com; address shown only as 'United Arab Emirates' (no street address)",
+     "NO live chat (beyond WhatsApp), NO blog (only default WordPress 'hello-world' post in sitemap), NO FAQ, NO careers page, NO social media links anywhere, NO downloadable brochures, NO JSON-LD/schema.org markup in source",
+     "Tech stack: WordPress 7.0, Astra theme, Elementor 4.1.1 + Elementor Pro 3.35, Header Footer Elementor plugin, Chaty plugin; site is only 4 pages (Home, About Us, Our Services, Contact Us) per sitemap",
+     "Copyright line: 'Copyright 2024 alsarmmedical.com'"
+    ],
+    "arabic_support": "none — lang=\"en-US\" only, no hreflang tags, no /ar/ path (404), no language switcher, zero Arabic characters in any page source",
+    "standout_items": [
+     "Site is extremely thin: 4 pages total; Our Services page is just the same 5 service cards as the homepage with no detail pages per service",
+     "Equipment brands serviced: NONE mentioned (no GE, Philips, Mindray, Drager, etc.) — services are described by equipment category only",
+     "Quality-control lapses a competitor could exploit: construction-industry boilerplate left in 'Why Choose Us' (contradicts the 15+ years medical claim with 'Over 14 years in the construction industry'), and a Google Maps embed on the contact page still pointing to the London Eye",
+     "Internally inconsistent experience claims: counter says 15+ years, body text says 'over 14 years in the construction industry'",
+     "Lead capture is heavily WhatsApp-centric: every Get Quotation CTA and the floating widget route to one mobile number; only fallback is the basic 4-field contact form",
+     "No physical address, no PO box, no trade license number, no company registration info anywhere on the site",
+     "No SEO investment visible: no schema markup, default WordPress sitemap, leftover 'hello-world' post, no blog content, no meta descriptions strategy evident",
+     "Testimonial client names (Al Noor Hospital, Emirates Diagnostic Center, Dubai Research Lab) read as plausible but are presented without logos, photos, or verification",
+     "Niche positioning is narrow and cold-chain focused (refrigeration, freezers, mortuary units, incubators, centrifuges) rather than imaging/diagnostic equipment"
+    ],
+    "brands_serviced": []
+   },
+   "services_count": 5
+  },
+  {
+   "id": "wadi",
+   "name": "Wadi Al Hanan Medical & Laboratory Equipment Repairing Co.",
+   "short": "Wadi Al Hanan",
+   "url": "https://wadialhananmadica.tech/",
+   "category": "direct",
+   "emirate": "Dubai",
+   "features": {
+    "arabic": {
+     "v": 0
+    },
+    "form": {
+     "v": 1,
+     "n": "On homepage, maintenance and support pages"
+    },
+    "whatsapp": {
+     "v": 0
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 0.5,
+     "n": "Homepage embed OK (Business Bay); support-page embed points to Springfield, MA, USA"
+    },
+    "tel": {
+     "v": null
+    },
+    "faq": {
+     "v": 0
+    },
+    "blog": {
+     "v": 0
+    },
+    "careers": {
+     "v": 0
+    },
+    "social": {
+     "v": 0
+    },
+    "schema": {
+     "v": 0.5,
+     "n": "WebSite type only"
+    },
+    "shop": {
+     "v": 0
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 1
+    },
+    "calibration": {
+     "v": 1
+    },
+    "amc": {
+     "v": 0
+    },
+    "est": {
+     "v": 0
+    },
+    "install": {
+     "v": 0.5,
+     "n": "Parts installation"
+    },
+    "parts": {
+     "v": 1,
+     "n": "Genuine parts supply"
+    },
+    "training": {
+     "v": 0
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "—",
+    "iso": "—",
+    "testimonials": "2 (reference Riyadh/Jeddah — placeholder-like)",
+    "client_logos": "—",
+    "oem_logos": "—",
+    "other": "—"
+   },
+   "notes": [
+    "Support page shows placeholder phone '1234567890' and a US placeholder address",
+    "Testimonials reference Saudi cities"
+   ],
+   "raw": {
+    "name": "Wadi Al Hanan Medical & Laboratory Equipment Repairing Co.",
+    "url": "https://wadialhananmadica.tech/",
+    "reachable": true,
+    "nav_sections": [
+     "Home",
+     "Services",
+     "Maintenance",
+     "Support",
+     "Unlabeled 'Button' placeholder item in nav (template artifact)",
+     "Homepage sections: Hero, Service highlights, Office/Hours, About Us, Our Services, Contact Us form, Testimonial, Footer",
+     "Services page sections: Equipment Repair, Preventive Maintenance, Calibration Testing, Customer Feedback",
+     "Maintenance page sections: Hero, Gallery, Contact Us",
+     "Support page sections: Location Services, Contact Us for Support"
+    ],
+    "services_listed": [
+     "Medical equipment repair (diagnosis and repair)",
+     "Preventive maintenance (scheduled check-ups to avoid equipment failures)",
+     "Calibration & testing services",
+     "Emergency support (quick-response urgent repairs)",
+     "On-site support",
+     "Genuine parts supply and installation"
+    ],
+    "trust_signals": [
+     "Two client testimonials, both almost certainly template/AI-generated placeholders: 'Dr. Smith' (5 stars, listed as Riyadh) and 'Nurse Amy' (Jeddah) - Saudi cities, odd for a Dubai company",
+     "Physical office address: Burlington Tower, 25th Floor, Office No. 2516, Marasi Drive, Business Bay, Dubai, UAE",
+     "Business hours listed: Monday-Saturday 9am-6pm",
+     "NO ISO certifications, NO years in business, NO client logos, NO OEM/brand partnerships, NO project counts, NO team bios, NO accreditations anywhere on the site"
+    ],
+    "site_features": [
+     "Contact/quote form (First Name, Email, Message) on homepage, maintenance, and support pages",
+     "Footer email capture field ('Your Email Address / Submit Your Request') on every page",
+     "Google Maps embed on homepage (Burlington Tower Business Bay) and on support page - but the support-page map points to a placeholder US address '697 Hilltop Street, Springfield, MA, USA'",
+     "JSON-LD schema.org markup on every page (WebSite type only, with name/description/keywords)",
+     "Contact details: info@wadi-al-hanan.com, support@wadi-al-hanan.com, +971 4 348 2784 (support page also shows placeholder phone '1234567890' and placeholder address '123 Medical St, City')",
+     "Image gallery on the maintenance page (stock Unsplash images)",
+     "NO WhatsApp button, NO live chat, NO blog, NO FAQ, NO careers page, NO social media links, NO downloadable brochures"
+    ],
+    "arabic_support": "none - hreflang only declares x-default, /ar and /ar/ return 404, no Arabic text anywhere in the HTML, no language switcher; site is English-only (html lang=\\\"en\\\", inLanguage:\\\"en\\\" in schema)",
+    "brands_serviced": [],
+    "standout_items": [
+     "The entire site is an AI-generated Hostinger Website Builder (Zyro/Astro) template that was never finished: unlabeled 'Button' nav item, placeholder address '123 Medical St, City', placeholder phone '1234567890', truncated hours 'Mon-Fri 9am', and a Google Maps embed pointing to Springfield, Massachusetts USA",
+     "All imagery is generic Unsplash stock (some images are of sofas/interiors, unrelated to medical equipment) plus a Pexels stock video",
+     "No equipment brands (GE, Philips, Mindray, Drager, etc.) are mentioned anywhere - no brands_serviced content at all",
+     "No services detail pages: 'Learn'/'Discover'/'Get Started' buttons exist but the site has only 4 pages total (/, /services, /maintenance, /support)",
+     "Email domain (wadi-al-hanan.com) differs from the website domain (wadialhananmadica.tech - note the typo 'madica'), a cheap .tech TLD",
+     "Testimonials cite Riyadh and Jeddah (Saudi Arabia) despite the company being Dubai-based - another sign of unedited AI filler",
+     "Competitive takeaway: this competitor site is extremely weak - any site with real service detail, brand lists, certifications, Arabic support, or WhatsApp contact would easily outclass it"
+    ]
+   },
+   "services_count": 6
+  },
+  {
+   "id": "arh",
+   "name": "ARH — Al Reem Hospico LLC (شركة الريم هوسبيكو)",
+   "short": "Al Reem Hospico",
+   "url": "https://arh.ae/",
+   "category": "adjacent",
+   "emirate": "UAE (multiple offices)",
+   "features": {
+    "arabic": {
+     "v": 1,
+     "n": "Full first-class Arabic at /ar — RTL stylesheets, hreflang, all main pages translated (some EN remnants)"
+    },
+    "form": {
+     "v": 1,
+     "n": "Enquiry form with type dropdown + CSRF"
+    },
+    "whatsapp": {
+     "v": 0.5,
+     "n": "WhatsApp nav item leads to an empty page"
+    },
+    "livechat": {
+     "v": 0
+    },
+    "map": {
+     "v": 0.5,
+     "n": "Per-office links only"
+    },
+    "tel": {
+     "v": 1,
+     "n": "tel:, mailto:, fax: links"
+    },
+    "faq": {
+     "v": 0
+    },
+    "blog": {
+     "v": 0
+    },
+    "careers": {
+     "v": 0.5,
+     "n": "Careers page exists but is empty"
+    },
+    "social": {
+     "v": 0.5,
+     "n": "Facebook OK; LinkedIn link is an /admin/ URL"
+    },
+    "schema": {
+     "v": 0.5,
+     "n": "Present on every page but filled with leftover boilerplate text"
+    },
+    "shop": {
+     "v": 0.5,
+     "n": "Product pages with downloadable PDF brochures"
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": null
+    },
+    "calibration": {
+     "v": 0
+    },
+    "amc": {
+     "v": null
+    },
+    "est": {
+     "v": 0
+    },
+    "install": {
+     "v": 1,
+     "n": "Supply, installation, commissioning, training, after-sales"
+    },
+    "parts": {
+     "v": null
+    },
+    "training": {
+     "v": 1
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "Since 1981; incorporated 1990 (UAE-UK JV); '40+ years' counter",
+    "iso": "ISO 9001:2015 (since 2004), ISO 14001:2015, OHSAS 18001:2007",
+    "testimonials": "—",
+    "client_logos": "—",
+    "oem_logos": "40+ international partners counter; 12 brands",
+    "other": "Claims 80%+ UAE healthcare-engineering market share; AED 500M New Al Ain Hospital turnkey contract; hospital facility management & MEP — a different weight class (adjacent, not a like-for-like repair shop)"
+   },
+   "notes": [
+    "Staff counter differs between Arabic (750+) and English (1250+) pages",
+    "Webmail login links exposed in public header",
+    "Footer reads 'Reem Hospital © 2021'"
+   ],
+   "raw": {
+    "name": "ARH - Al Reem Hospico LLC (شركة الريم هوسبيكو)",
+    "url": "https://arh.ae/ar",
+    "reachable": true,
+    "nav_sections": [
+     "الرئيسية (Home)",
+     "من نحن (About Us)",
+     "خدماتنا (Services)",
+     "المنتجات (Products)",
+     "لماذا اخترتنا؟ (Why Us)",
+     "المشاريع (Projects)",
+     "الشركاء (Partners)",
+     "الوظائف (Careers)",
+     "تواصل معنا (Contact Us)",
+     "Events (label left in English)",
+     "Gallery (label left in English)",
+     "بريد الويب (Webmail — links to HostGator cPanel and Microsoft 365 login)",
+     "Language switcher AR/EN",
+     "Homepage sections: hero slider, About ARH, stats counters, Products, Services, Projects, footer with 3 office addresses (Al Ain HQ, Dubai, Abu Dhabi)"
+    ],
+    "services_listed": [
+     "إدارة المنشآت — Facility Management (hospital facility operation per international quality standards)",
+     "الهندسة الطبية الحيوية — Biomedical Engineering services (design to handover)",
+     "الهندسة الكهروميكانيكية — Electro-Mechanical (MEP) Engineering / specialized MEP solutions",
+     "بيع وصيانة المعدات الطبية — Medical Equipment Sales and Servicing (supply, installation, commissioning, training, after-sales, equipment management)",
+     "وحدات الرعاية الصحية المتنقلة — Mobile Healthcare Solutions (mobile hospitals, mobile imaging clinics, mobile labs, decontamination trailers)",
+     "الهندسة المدنية / حلول البنية التحتية — Civil & Infrastructure Solutions (design-construction, renovation, fit-out, landscape works)",
+     "Additional capabilities mentioned: testing & commissioning, equipment certification, warranty-period technical systems management, hospital construction consultancy division, medical gas systems, pneumatic tube systems, modular/integrated operating rooms, cleanrooms, robotic/automated pharmacy systems, oncology treatment systems"
+    ],
+    "trust_signals": [
+     "In business since 1981 (biomedical services), incorporated April 1990 as JV of Al Reem General Trading (UAE) + Hospitalia International Ltd (UK); '40+ years in business' counter",
+     "Stats counters: 750+ staff (Arabic site; English homepage says 1250 — inconsistent), 40+ international partners, 7.5M assets, 95%+ uptime",
+     "Claims 80%+ market share in UAE healthcare engineering (GM & CEO messages)",
+     "AED 500 million turnkey contract for New Al Ain Hospital (719 beds, 104 clinics, 17 radiology rooms, 22 operating theatres) — billed as 1 of 2 highest-value healthcare contracts in UAE",
+     "ISO 9001:2015 (certified since 2004), ISO 14001:2015, OHSAS 18001:2007, OSHAD V3.1, HTM-02, UAE Federal Law 209 compliance; EHSMS system",
+     "Staff credentials: 10 experts certified by NEBOSH, IOSH, OHSAS, OSHAD; certified BMET license",
+     "Accreditations/licensing bodies listed: HAAD/DoH Abu Dhabi, DHA, UAE Ministry of Health, SEHA, IHEEM (UK), ISO, AADC, OSHAD, ECRI (emergency care research institute), HTM, European Business Association; JCI compliance consulting offered",
+     "Named clients: SEHA, UAE Ministry of Health, Dubai Health Authority, Ministry of Presidential Affairs, SEHA Ambulatory Healthcare Services, Mediclinic, NMC, VPS Health, New Al Ain Hospital",
+     "Project list: Tawam Hospital, Al Ain Hospital, Sheikh Khalifa Hospital, ADNOC Hospital Ruwais, Al Dhafra Hospitals, Reem Hospital, SKMC, SSMC Biomedical, Dubai Health, ambulatory care centers",
+     "Leadership bios/messages with names: Chairman H.E. Dr. Ali Bin Harmal Al Dhaheri, GM Prof. Faraj M Sultan, CEO Mr. Shaji Mamen; founding patronage of Sheikh Saeed bin Tahnoun Al Nahyan",
+     "Owned by Nael & Bin Harmal Group (est. 1979; group includes Emirates International Hospital, Abu Dhabi University, Liwa International Schools, Magna Investments)",
+     "Partner logo wall: BHS, Bin Harmal, Al Reem General Trading, Hospico, Aerocom, Abu Dhabi University, Teknomed, Medworld Inc USA, Memcol UK, Euro Energy, Interspec USA, Vatech, MMPL UK, BHS Investment",
+     "Historic OEM partnerships cited: Whitaker Medical (US), Charter Medical (US), Klaus Hofmann (Germany), Hospitalia International (UK)",
+     "UAE Vision 2021 alignment section; mission/vision/values; no client testimonials and no individual team bios beyond the 3 executives"
+    ],
+    "site_features": [
+     "Service enquiry form on Contact page (name, email, phone, enquiry type dropdown: Sales/Services/Other, details; POST with CSRF token) — functions as a basic quote/RFQ form",
+     "WhatsApp item in nav, but /ar/pages/whatsapp is an EMPTY page — no wa.me link and no floating WhatsApp button",
+     "No live chat",
+     "Google Maps: 'go to location' goo.gl/maps links for offices (2 links for 3 offices) — plain links, no embedded map iframe",
+     "Careers page exists but is empty ('لا توجد بيانات حتى الان' — no data yet); no job application form",
+     "Events and Gallery pages in nav",
+     "Social links: Facebook (alreem.hospico.9) and LinkedIn — but the LinkedIn href points to the company /admin/ URL, broken for visitors",
+     "Downloadable PDF brochures per product ('تحميل المرفقات') plus 'visit website' links to manufacturer sites",
+     "JSON-LD schema.org markup present on every page, but it is generic @type WebPage filled with leftover boilerplate ('Local Listing Pro automatically submits your business...') — same junk text in meta description and og:description",
+     "hreflang alternate tags for ar/en; tel:, mailto:, fax: links; back-to-top button; AOS scroll animations; Bootstrap RTL",
+     "No blog, no FAQ, no testimonials, no newsletter signup",
+     "Footer copyright stale and mislabeled: 'مستشفى الريم © 2021' (Reem Hospital © 2021)",
+     "Webmail links (HostGator cPanel port 2096 + Microsoft 365 login) exposed in the public header"
+    ],
+    "arabic_support": "Full bilingual — Arabic is a complete first-class version at /ar (lang=\"ar\" dir=\"rtl\", dedicated bootstrap-rtl/styles-rtl stylesheets, hreflang alternate to /en, AR/EN switcher in header). All main pages (home, about, services, products, why-us, partners, projects, contact) are fully translated server-rendered Arabic, including long-form chairman/GM/CEO messages. Gaps: hero-slider headlines, 'Events'/'Gallery' nav labels, product titles, and several project names remain in English on the Arabic pages; stats differ between languages (750 staff AR vs 1250 EN).",
+    "brands_serviced": [
+     "Claims to represent 40+ global brands and act as exclusive UAE/GCC distributor for several multinational manufacturers (no full brand list published)",
+     "Aerocom (Germany) — pneumatic tube systems",
+     "Flaem (Italy) — nebulizer/aspirator systems",
+     "HMN (Denmark) — shower stools and commodes",
+     "Northern Meditec — Aquarius/Taurus patient monitors",
+     "Sino MDT (sinomdt-global.com) — syringe/infusion/enteral feeding pumps",
+     "Senyang Xiamen (medicalxm.com) — medical air mattresses",
+     "OTSAW — robotics ecosystem",
+     "Vatech (partner logo — imaging)",
+     "Teknomed, Medworld Inc (USA), Memcol (UK), Euro Energy, Interspec (USA), MMPL (UK) — partner logos",
+     "Historic service/management partners: Whitaker Medical (US), Charter Medical (US), Klaus Hofmann (Germany), Hospitalia International (UK)",
+     "Notably absent: no mention of GE, Philips, Siemens, Mindray, Drager or other major imaging/ICU OEMs as serviced brands"
+    ],
+    "standout_items": [
+     "Government mega-contract storytelling: AED 500M six-phase turnkey New Al Ain Hospital contract with bed/clinic/OR counts — very strong B2G credibility anchor",
+     "Animated stats counters (staff, partners, uptime %, assets, years) on the homepage",
+     "Three named C-suite letters (Chairman/GM/CEO) plus group-ownership history dating to 1979 and royal patronage narrative",
+     "Dedicated 'Why Us' page entirely devoted to QA policy, OHS policy, training, and a long accreditation list (ISO, NEBOSH, IOSH, OSHAD, IHEEM, HAAD, DHA, MoH)",
+     "UAE Vision 2021 alignment section tying services to national agenda",
+     "Product pages with per-product PDF brochure downloads and outbound manufacturer links",
+     "Mobile healthcare units (mobile hospitals, imaging clinics, labs, decontamination trailers) as a differentiated service line",
+     "Things their site does poorly that yours could beat: empty WhatsApp page and no chat, empty careers page, broken LinkedIn admin link, placeholder/junk SEO meta + JSON-LD on every page, stale 2021 copyright with wrong company name, no testimonials/FAQ/blog/case studies, no embedded map, staff-count mismatch between AR (750) and EN (1250) versions"
+    ]
+   },
+   "services_count": 7
+  },
+  {
+   "id": "urs",
+   "name": "URS Testings Laboratory LLC",
+   "short": "URS Labs",
+   "url": "https://urslabs.com/",
+   "category": "adjacent",
+   "emirate": "Dubai",
+   "features": {
+    "arabic": {
+     "v": 1,
+     "n": "Dedicated parallel Arabic site at /arabic/ — translated nav, pages and services (some EN blocks remain); no visible cross-link from EN site"
+    },
+    "form": {
+     "v": 1,
+     "n": "Contact Form 7"
+    },
+    "whatsapp": {
+     "v": 1,
+     "n": "Separate numbers for EN and AR sites"
+    },
+    "livechat": {
+     "v": 1,
+     "n": "Tawk.to"
+    },
+    "map": {
+     "v": null
+    },
+    "tel": {
+     "v": null
+    },
+    "faq": {
+     "v": null
+    },
+    "blog": {
+     "v": 1,
+     "n": "Insights/blog incl. 2-3 Arabic posts"
+    },
+    "careers": {
+     "v": 0.5,
+     "n": "Careers email only"
+    },
+    "social": {
+     "v": 1,
+     "n": "FB, IG, LinkedIn, X"
+    },
+    "schema": {
+     "v": 1,
+     "n": "WebSite, WebPage, Article, Organization, SearchAction"
+    },
+    "shop": {
+     "v": 0
+    }
+   },
+   "services": {
+    "ppm": {
+     "v": 0
+    },
+    "calibration": {
+     "v": 1,
+     "n": "Accredited calibration services"
+    },
+    "amc": {
+     "v": 0
+    },
+    "est": {
+     "v": 0
+    },
+    "install": {
+     "v": 0
+    },
+    "parts": {
+     "v": 0.5,
+     "n": "Supply of instruments + technical manpower"
+    },
+    "training": {
+     "v": 1
+    },
+    "radiation": {
+     "v": 0
+    }
+   },
+   "trust": {
+    "years": "30+ years",
+    "iso": "ISO/IEC 17025:2017 accredited (EIAC/DAC + ENAS) — certificates downloadable",
+    "testimonials": "—",
+    "client_logos": "Radisson, Shangri-La, Zulekha Hospital, Dubai Airport, JAFZA, Trakhees…",
+    "oem_logos": "—",
+    "other": "Testing laboratory (food/water/environment/chemical + calibration) — adjacent comparator, not a repair shop; approved by UAE government departments"
+   },
+   "notes": [],
+   "raw": {
+    "name": "URS Testings Laboratory LLC",
+    "url": "https://urslabs.com/arabic/",
+    "reachable": true,
+    "nav_sections": [
+     "Home (الصفحة الرئيسية)",
+     "About Us (نبذة عنا) - with submenu: Our Testing Laboratories (مختبر الفحوص), Quality Policy (سياسة الجودة), Why URS Labs? (لماذا مختبر يو.أر.اس), Approvals & Accreditations (الاعتمادات)",
+     "Accreditation (الاعتماد)",
+     "Insights / Overview (نظرة عامة)",
+     "Services menu (الفحص) with submenu: Microbiology Testing, Food Microbiology Testing, Water Microbiology Testing, Special Tests, Chemical, Environment, Calibration / Calibration Services, Supply of Instruments & technical manpower, Geotechnical (English nav only), Training",
+     "Contact Us (اتصل بنا)"
+    ],
+    "services_listed": [
+     "Food Microbiology Testing",
+     "Water Microbiology Testing",
+     "Microbiology Testing",
+     "Special Tests (Shelf-life testing, Nutritional analysis)",
+     "Chemical Testing",
+     "Environment Monitoring / Air Quality Testing",
+     "Calibration Services",
+     "Thermometer and Pressure Calibration",
+     "Supply of Instruments & technical manpower (hire of Equipment/Instrument Engineers & Technicians)",
+     "Geotechnical and Construction (materials) Testing",
+     "Clean Room Inspection Services",
+     "Training services",
+     "Inspection and certification (associated services)",
+     "Legionella Risk Assessment & Water Testing (featured in blog/SEO)"
+    ],
+    "trust_signals": [
+     "ISO/IEC 17025:2017 accredited laboratory",
+     "Accredited by EIAC / Emirates International Accreditation Centre (DAC - Dubai Accreditation Department)",
+     "Approved CAB (Conformity Assessment Body) with Emirates National Accreditation System (ENAS), Abu Dhabi",
+     "30+ Years of experience",
+     "Approved by all UAE Government ministries and departments",
+     "Downloadable Certificate of Registration and ENAS Accreditation certificates",
+     "Client/partner logos: Radisson, Shangri-La, Zulekha (Hospital), Dubai Airport, EIAC, Hamriyah (Free Zone), JAFZA (Jebel Ali Free Zone), Quality Council, Sharjah City (Municipality), Trakhees",
+     "Clientele described as government companies, reputed MNCs, hotels",
+     "Approvals from Municipalities, OEMs, Ministries and major local corporate brands",
+     "Highly qualified technical and managerial team / expert specialists",
+     "JSON-LD schema marks org as Person/Organization 'ursdxb'"
+    ],
+    "site_features": [
+     "WhatsApp floating button (wp-whatsapp plugin; Arabic site number wa.me/+971589975968, English site number +971501436067)",
+     "Tawk.to live chat widget (id 60a627cf185beb22b30f0d1c)",
+     "Contact / inquiry form (Contact Form 7 - wpcf7)",
+     "MailChimp newsletter signup (mc4wp_form id 7484)",
+     "Blog / Insights section with articles",
+     "Careers info (email careers@urs-me.com on EN contacts; careers@urslabs.com on AR contacts)",
+     "Social links: Facebook (facebook.com/URSLabs), Instagram (instagram.com/urslabs), LinkedIn (company/urslabs), Twitter/X (@UrsLaboratory)",
+     "JSON-LD / schema.org structured data (WebSite, WebPage, Article, Person/Organization, SearchAction)",
+     "Downloadable accreditation certificates (PDF download links)",
+     "WordPress site, designed by Infobahn",
+     "RSS feeds"
+    ],
+    "arabic_support": "full bilingual - dedicated Arabic site lives at /arabic/ subdirectory (a parallel WordPress multisite/translation, not /ar/ paths or hreflang tags). Arabic homepage renders dir=rtl with fully translated nav, hero, about, services labels, blog excerpts and footer. Inner Arabic pages exist and are translated: /arabic/profile/ (About Us), /arabic/contacts/ (full Arabic contact page with address PO Box 377913 Dubai, phone +971 4 883 71 15, email info@urslabs.com, working hours Mon-Sat 8:30am-5:30pm, careers careers@urslabs.com), /arabic/quality-policy/, /arabic/why-urs-labs/, /arabic/accreditation/, and Arabic service pages (calibration, chemical, environment, food microbiology, water microbiology, special tests, supply of instruments, training). Some content blocks remain in English on the Arabic pages (e.g. service card descriptions, '30+ Years of experience' label, footer accreditation paragraph). No visible language-switcher toggle link found between EN and AR versions; English site does not link out to /arabic/ in nav. Arabic blog has 2-3 posts (food testing accuracy, halal food identification).",
+    "standout_items": [
+     "No equipment OEM/brand servicing claims found - this is a testing & calibration laboratory, NOT a medical/lab equipment repair company. It does NOT advertise servicing GE, Philips, Mindray, Drager or similar device brands. It only references OEMs generically as a source of approvals.",
+     "Core focus is food/water/environmental/chemical lab testing plus calibration and training - the brief's framing as 'medical/lab equipment service company' does not match the actual site.",
+     "Bizarre broken nav link in source: href='http://urslabs.comservice/calibration-services/' (missing slash)",
+     "Arabic approvals link points to a different/staging domain: mitrontransfer.com/urslabs/approvals-accreditations/",
+     "Site claims 30+ years of experience but most content/blog cadence is light; blog recently revived (Jan-Feb 2026 posts after a 2022 gap)",
+     "No Google Maps embed found on the contact pages (address given as text only: Jebel Ali / Dubai, PO Box 377913)",
+     "Dual/inconsistent WhatsApp numbers and careers emails between EN and AR versions",
+     "SEO title of homepage is keyword-stuffed around 'Legionella Testing Lab/Companies in UAE' rather than the company name",
+     "Schema.org organization name is the placeholder 'ursdxb'"
+    ],
+    "brands_serviced": []
+   },
+   "services_count": 14
+  }
+ ]
+}
