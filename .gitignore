@@ -5,3 +5,4 @@
 screenshot_*.png
 *.tmp
 .DS_Store
+test-*.html

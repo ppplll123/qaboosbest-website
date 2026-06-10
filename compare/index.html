@@ -12,6 +12,11 @@
 <meta property="og:title" content="How We Compare — UAE Medical Equipment Service Websites">
 <meta property="og:description" content="15 UAE company websites compared on services, features, Arabic support and trust signals. Publicly available data, June 2026.">
 <meta property="og:url" content="https://ppplll123.github.io/qaboosbest-website/compare/">
+<meta property="og:image" content="https://images.unsplash.com/photo-1666214280352-db292c05fd80?fm=jpg&q=70&w=1200&auto=format&fit=crop">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="How We Compare — UAE Medical Equipment Service Websites">
+<meta name="twitter:description" content="15 UAE company websites compared on services, features, Arabic support and trust signals. Publicly available data, June 2026.">
+<meta name="twitter:image" content="https://images.unsplash.com/photo-1666214280352-db292c05fd80?fm=jpg&q=70&w=1200&auto=format&fit=crop">
 <script>
 (function(){
   var DEFAULT_THEME='classic'; /* THEME TOGGLE: classic | modern | minimal | sand */
@@ -147,22 +152,21 @@
   footer .wrap p{margin-bottom:8px}
   footer a{color:#9fd6dd}
 
+  @media(max-width:1120px){
+    nav a.navlink{padding:8px 9px;font-size:13px}
+    .lang{padding:8px 10px;font-size:13px}
+  }
   @media(max-width:900px){
     .adv{grid-template-columns:repeat(2,1fr)}
     .charts{grid-template-columns:1fr}
     .dgrid{grid-template-columns:1fr}
     .hero h2{font-size:23px}
     .hbar .lab{flex-basis:130px}
-  }
-  @media(max-width:1120px){
-    nav a.navlink{padding:8px 9px;font-size:13px}
-    .lang{padding:8px 10px;font-size:13px}
-  }
-  @media(max-width:900px){
     .hamburger{display:block}
     nav{position:absolute;top:100%;inset-inline-end:0;background:var(--white);flex-direction:column;align-items:stretch;gap:0;min-width:210px;border:1px solid var(--line);border-radius:0 0 12px 12px;box-shadow:0 10px 24px rgba(0,0,0,.12);padding:8px;display:none}
     nav.open{display:flex}
     nav a.navlink,.lang{width:100%;text-align:start;border-radius:8px}
+    .lang{margin-top:4px}
   }
   @media(max-width:520px){.adv{grid-template-columns:1fr}}
 
@@ -306,6 +310,15 @@ document.getElementById('hamburger').addEventListener('click',function(){
   var open=nav.classList.toggle('open');
   this.setAttribute('aria-expanded',open?'true':'false');
 });
+function closeMenu(){
+  var nav=document.getElementById('nav');
+  if(nav.classList.contains('open')){
+    nav.classList.remove('open');
+    document.getElementById('hamburger').setAttribute('aria-expanded','false');
+  }
+}
+document.addEventListener('click',function(e){ if(!e.target.closest('header')) closeMenu(); });
+document.addEventListener('keydown',function(e){ if(e.key==='Escape') closeMenu(); });
 
 fetch('data.json').then(function(r){return r.json();}).then(function(d){
   DATA=d;
@@ -315,7 +328,7 @@ fetch('data.json').then(function(r){return r.json();}).then(function(d){
   try{buildCharts();}catch(e){console.error('charts',e);}
   try{buildRaw();}catch(e){console.error('raw',e);}
 }).catch(function(e){
-  document.getElementById('mx').innerHTML='<tr><td style="padding:30px">Could not load data.json — '+e+'</td></tr>';
+  document.getElementById('mx').innerHTML='<tr><td style="padding:30px">Could not load data.json — '+esc(String(e))+'</td></tr>';
 });
 
 /* ---------- event delegation: survives every rebuild, nothing can detach it ---------- */
@@ -412,7 +425,7 @@ function buildTable(){
 function detailRow(c,span){
   var r=c.raw,tr=c.trust;
   function li(a){return (a&&a.length)?a.map(function(x){return '<li>'+esc(x)+'</li>';}).join(''):'<li>—</li>';}
-  return '<tr class="detail"><td colspan="'+(span+1)+'"><div class="dgrid">'+
+  return '<tr class="detail"><td colspan="'+span+'"><div class="dgrid">'+
     '<div class="dcard"><h4>Services listed on their site ('+c.services_count+')</h4><ul>'+li(r.services_listed)+'</ul></div>'+
     '<div><div class="dcard"><h4>Trust signals (as claimed on their site, unverified)</h4><ul>'+
     '<li><b>Years:</b> '+esc(tr.years)+'</li><li><b>Certifications:</b> '+esc(tr.iso)+'</li>'+
@@ -445,7 +458,7 @@ function buildAdv(){
     '<div class="acard"><div class="big">1 / '+n+'</div><h4>Sites showing a verifiable trade license</h4><p>Ours is the only website in this set displaying its full DET professional license with a verification link.</p></div>'+
     '<div class="acard"><div class="big">'+faq+' → ours in 2 languages</div><h4>FAQ sections among competitors</h4><p>Only '+faq+' competitor sites have any FAQ — none in Arabic. Ours answers 7 common service questions in both languages.</p></div>'+
     '<div class="acard"><div class="big">0</div><h4>Unverifiable claims on our site</h4><p>No invented counters, no anonymous testimonials, no certification badges we don\'t hold. Licensed Feb 2025 — and we say so.</p></div>';
-  document.getElementById('honest').innerHTML='<b>Where others lead today (same data):</b> Paramount runs a weekly blog and an online shop; Meditron shows 8+ named client testimonials, user training and FANR-regulated X-ray QC; Cyrix-TSL claims board-level repair across 6 offices; IHAG and Meditron offer radiation/FANR services we don\'t. We\'d rather show you that than hide it.';
+  document.getElementById('honest').innerHTML='<b>Where others lead today (same data):</b> Paramount runs a weekly blog and an online shop; Meditron shows 8+ named client testimonials, user training and FANR-regulated X-ray QC; Cyrix-TSL claims board-level repair with offices across MENA; IHAG and Meditron offer radiation/FANR services we don\'t. We\'d rather show you that than hide it.';
 }
 
 function buildCharts(){
@@ -464,7 +477,7 @@ function buildCharts(){
   h=bar('Full Arabic site',full.length,n,full.length+'/'+n,true);
   h+=bar('No Arabic at all',none.length,n,none.length+'/'+n,false);
   var directNoUs=cs.filter(function(c){return c.category==='direct'&&!c.us;}).length;
-  h+='<p class="note">Of the '+directNoUs+' direct repair competitors, <b>zero</b> have any Arabic content. The only full Arabic sites in the set are Qaboos Best, Al Reem Hospico (hospital engineering — adjacent) and URS Labs (testing laboratory — adjacent).</p>';
+  h+='<p class="note">Of the '+directNoUs+' direct repair competitors, <b>zero</b> have any Arabic content. The only sites with real Arabic versions are Qaboos Best, Al Reem Hospico (hospital engineering — adjacent) and URS Labs (testing laboratory — adjacent; some English remnants noted in capture).</p>';
   document.getElementById('ch_arabic').innerHTML=h;
   var t=[
     ['Years-in-business / founded claim',cs.filter(function(c){return c.trust.years&&c.trust.years!=='—';}).length,false],
