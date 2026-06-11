@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ppplll123.github.io/qaboosbest-website/sitemap.xml
+Sitemap: https://qaboosbest.com/sitemap.xml
