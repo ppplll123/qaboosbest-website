@@ -367,7 +367,7 @@
      "Plus equipment supply/distribution across 10+ product categories: Radiology & Imaging, Medical Equipment, Dental, Nuclear/Radiation, Laboratory, Ambulance & Emergency, Healthcare IT, Veterinary, Digital Health"
     ],
     "site_features": [
-     "WhatsApp click-to-chat button (api.whatsapp.com, +971 55 7909651, via Chaty plugin)",
+     "WhatsApp click-to-chat button (api.whatsapp.com, [number removed], via Chaty plugin)",
      "Tawk.to live chat widget",
      "Contact form on Get in Touch page (Contact Form 7: name, mobile, email, subject, message + captcha — but the captcha shortcode '[dscf7captcha dscf7captcha-676]' renders as raw unprocessed text, i.e. visibly broken)",
      "Google Maps embed on contact page (pinned to Paramount Medical Equipment Trading LLC, Sharjah)",
@@ -388,7 +388,7 @@
      "Named, attributed testimonials from 4 doctors with their clinics (Al Shifa Al Khaleeji Medical Center Group SHJ & DXB, Al Shamil Medical Centre, Luminance Dental Center DXB, Class Medical Centre SHJ)",
      "FANR (UAE Federal Authority for Nuclear Regulation) consultation as a differentiated regulatory-compliance service, paired with lead shielding/radiation protection construction work",
      "Animated stats counters: founded 2002, 20+ years in industry, 2+ countries",
-     "Two-office footprint shown on contact page: Sharjah UAE HQ (PO Box 7584, tel +971 6 7459676, mob +971 55 7909651, fax +971 6 7459678) and Muscat Oman office (+968 22014834)",
+     "Two-office footprint shown on contact page: Sharjah UAE HQ (PO Box 7584, tel [number removed], mob [number removed], fax [number removed]) and Muscat Oman office ([number removed])",
      "Awards & Events page: WMC Excellence Awards 2022 'Best Med. Equip. & Supplies Provider', AEEDC Dubai 2026/2025/2020, Arab Health 2025/2020, Genoray Fly DR software training",
      "Exhibition-booth popup banner driving event foot traffic (Hall 3.2, Stand A010)",
      "High-volume weekly SEO blog targeting UAE/Oman keywords (Dubai, Sharjah, Muscat)",
@@ -548,8 +548,8 @@
      "Contact/quote form (POSTs to forms/contact.php - endpoint exists, returns 405 on GET as expected for a POST handler; BootstrapMade php-email-form)",
      "FAQ section (6 Q&As: AMC scope, FANR support, radiation safety/shielding, QC tests, facilities served, how to get a quote)",
      "Google Maps LINK only ('Open Map' -> google.com/maps?q=Al+Barsha+1,+Dubai,+UAE) - no embedded map iframe",
-     "WhatsApp number displayed as plain text only (052 675 7010) - NO clickable wa.me/click-to-chat button",
-     "Phone 04 371 3494 plain text - no tel: link",
+     "WhatsApp number displayed as plain text only ([number removed]) - NO clickable wa.me/click-to-chat button",
+     "Phone [number removed] plain text - no tel: link",
      "Email i_h_ag@hotmail.com plain text - no mailto: link (and it is a Hotmail address, not a domain email)",
      "Meta description + keywords tags present (basic SEO)",
      "NO JSON-LD/schema.org markup, NO Open Graph tags",
@@ -705,7 +705,7 @@
      "No testimonials, no client/hospital logos, no project counts, no years-in-business figure, no team bios anywhere on the site"
     ],
     "site_features": [
-     "WhatsApp chat popup widget (web.whatsapp.com/send?phone=9710508962660, i.e. +971 50 896 2660)",
+     "WhatsApp chat popup widget (web.whatsapp.com/send?phone=[number removed], i.e. [number removed])",
      "Quote/contact form on Contact Us page (Fluent Forms) - but rendered as unconfigured 'Contact Form Demo (#4)' with generic 'Text Input' field labels",
      "'Get a Quote' CTA in footer on every page",
      "Blog section (/blogs/) with at least one post (portable oxygen cylinders)",
@@ -715,7 +715,7 @@
      "Google Tag Manager + Site Kit by Google analytics",
      "External e-commerce 'Shop' link to adamsmedonline.com",
      "'Download our Profile' company brochure button on About page - links to '#' (dead/non-functional)",
-     "tel: and mailto: links in header (sales@adamsmed.ae, +971 56 996 6545)",
+     "tel: and mailto: links in header (sales@adamsmed.ae, [number removed])",
      "No live chat (other than WhatsApp), no social media links anywhere, no careers page"
     ],
     "arabic_support": "none - no /ar/ path (404), no hreflang tags, no language switcher, no Arabic text in any fetched page; html lang=\"en-US\" and JSON-LD inLanguage en-US. English-only site.",
@@ -847,7 +847,7 @@
      "About Us",
      "Our Services (links to /our-businesses/)",
      "Contact",
-     "Header phone: +971-582494402",
+     "Header phone: [number removed]",
      "Homepage sections: Hero (Expert Medical Equipment Repair), What Makes Us Different, Our Philosophy, About Us / Our Journey & Commitment, What We Provide (services), Stats counters, Why Choose Us, Testimonial, Footer (Useful Links: Home, About Us, Services, Contact Us; Contact block)"
     ],
     "services_listed": [
@@ -879,7 +879,7 @@
     ],
     "site_features": [
      "Contact form on /contact/ (WPForms plugin): Name (first/last), Email, Comment/Message only — generic, not a structured quote/RFQ form despite 'Get a Free Repair Estimate' hero CTA",
-     "Two phone numbers (+971-582494402, +971-4327061) and email hr@sultanmedicalrepair.com on Contact page; header phone is plain text, not a tel: link",
+     "Two phone numbers ([number removed], [number removed]) and email hr@sultanmedicalrepair.com on Contact page; header phone is plain text, not a tel: link",
      "NO WhatsApp button or wa.me link anywhere",
      "NO live chat widget",
      "NO Google Maps embed (address shown as text only: Office 203-1, Abdul Rahman Mohammed Hassan Alshaikh, Al Khabeesi, Dubai)",
@@ -1023,12 +1023,12 @@
      "'Quality & Compliance Assured' tagline (no named standard)",
      "2 text testimonials: Mr. Omar Al Sharif ('Dependable and Affordable', surgical equipment) and Mr. Ramesh Patel ('Trusted Biomedical Experts', mentions relying on them 'for over two years')",
      "Physical office address: Office 7011, Aspin Commercial Tower, World Trade Centre, Sheikh Zayed Road, Dubai, P.O. Box 92937",
-     "Two phone numbers (+971 52 431 4862 mobile, +971 4 578 6837 landline) and domain email",
+     "Two phone numbers ([number removed] mobile, [number removed] landline) and domain email",
      "NO ISO certificates, NO client logos, NO OEM/brand partnerships, NO team bios, NO project counts, NO years-in-business figure, NO accreditations listed"
     ],
     "site_features": [
      "Email newsletter subscribe form (Jeg Kit Mailchimp form, on every page)",
-     "Click-to-call tel: link in header (+971 52 431 4862)",
+     "Click-to-call tel: link in header ([number removed])",
      "FAQ section (3 questions, on About page only)",
      "4-step 'Our Working Process' explainer (About and Services pages)",
      "Privacy Policy page",
@@ -1170,7 +1170,7 @@
     "trust_signals": [
      "3 text-only testimonials with names/titles but no organizations or photos: Dr. Ahmed Al-Mansoori (Head of Clinical Laboratory), Ms. Fatima Khalid (Senior Medical Technician), Mr. Omar Saeed (Laboratory Manager)",
      "Claim of 'Certified Repair Specialists' / skilled technicians (no certificates named)",
-     "Physical Dubai address: Office#4, 5th Floor Al Abbas Building, Near HBL Bank, 118 Street Al Mankhool Road, Dubai, PO Box 805464; Tel +971-4-8804384",
+     "Physical Dubai address: Office#4, 5th Floor Al Abbas Building, Near HBL Bank, 118 Street Al Mankhool Road, Dubai, PO Box 805464; Tel [number removed]",
      "NO ISO certifications, NO years in business, NO client logos, NO OEM/brand partnerships, NO project counts, NO team bios, NO accreditations"
     ],
     "site_features": [
@@ -1328,7 +1328,7 @@
      "No client logos, no team bios, no project counts/stat counters"
     ],
     "site_features": [
-     "WhatsApp click-to-chat button (wa.me/971503635960)",
+     "WhatsApp click-to-chat button (wa.me/[number removed])",
      "Social links: Facebook, Twitter/X, YouTube, Instagram",
      "Google Maps embed (on Contact Us page only)",
      "Photo and video gallery sections (sigPro image galleries)",
@@ -1357,7 +1357,7 @@
      "X-ray room lead lining/partitioning and refurbished + veterinary equipment as secondary lines",
      "Named testimonials from identifiable Dubai clinics — strong social proof despite no logos",
      "Notable gaps competitors could exploit: no contact/RFQ form at all, no ISO certifications, no Arabic version, no FAQ/careers/brochures, minimal schema markup, dated Joomla 3.x platform",
-     "Contact details: info@meditron.ae, +971 4 2510268, WhatsApp +971 50 363 5960, Al Qusais Business Center, Al Qusais 2, Dubai (PO Box 232698)"
+     "Contact details: info@meditron.ae, [number removed], WhatsApp [number removed], Al Qusais Business Center, Al Qusais 2, Dubai (PO Box 232698)"
     ]
    },
    "services_count": 18
@@ -1460,7 +1460,7 @@
      "Our Services",
      "Industries We Serve",
      "Contact Us",
-     "Phone CTA in nav: +971525815043",
+     "Phone CTA in nav: [number removed]",
      "NOTE: single-page site - all nav links are same-page anchors (#home, #about, #services, #industries, #contact); no inner pages exist (about.html/services.html/sitemap.xml all 404)"
     ],
     "services_listed": [
@@ -1481,10 +1481,10 @@
      "NO ISO certifications, NO accreditations, NO testimonials, NO project counts, NO team bios, NO partner/OEM logos anywhere (the page template has testimonial/portfolio/counter sections but they are empty/commented out in the HTML source)"
     ],
     "site_features": [
-     "Floating WhatsApp click-to-chat button (wa.me link to +971525815043, pre-filled 'Hi')",
+     "Floating WhatsApp click-to-chat button (wa.me link to [number removed], pre-filled 'Hi')",
      "Contact form ('Send Us A Message': name, email, phone, address, message) posting to contact-form-handler.php with legacy JS validation - functions as a basic enquiry/RFQ form",
      "Google Maps embed - but it is a generic Abu Dhabi city embed, not a pin to their actual Mussafah office",
-     "Two contact emails (vitalmedicalequipments@hotmail.com, vitalmedicalme@gmail.com - free webmail, no domain email) and two phones (+971525815043, +971563711540)",
+     "Two contact emails (vitalmedicalequipments@hotmail.com, vitalmedicalme@gmail.com - free webmail, no domain email) and two phones ([number removed], [number removed])",
      "Industries We Serve list: Hospitals, Medical Centers, Ambulance, Mobile Clinics, Dental Clinics, One Day Surgery Centre, Pharmacies, School Clinics, Air/Mobile Ambulance, On/Off Shore Clinics, Home Health Care Centers, Aviation, Diagnostic Centers",
      "One Facebook icon in footer with an EMPTY href (dead link); no other social links",
      "NO live chat, NO blog, NO FAQ, NO careers page, NO downloadable brochures, NO JSON-LD/schema.org markup, NO favicon (empty href)"
@@ -1843,7 +1843,7 @@
      "Contact/'Leave a Message' form on /contact/ (Elementor form: First Name, Mobile Number, Email, Message — no action attribute; site is a static HTML export so submission likely non-functional)",
      "Newsletter subscribe form in footer on every page (posts to newsletter.php)",
      "Google Maps embed on contact page (Umm Ramool, Dubai location)",
-     "Click-to-call tel: link in header — but it dials +971 44 518 366, which does not match any displayed number (likely template leftover)",
+     "Click-to-call tel: link in header — but it dials [number removed], which does not match any displayed number (likely template leftover)",
      "mailto link is broken: 'mailto: info@www.alamalmedical.com' (extra www. in domain)",
      "NO WhatsApp chat button (only an unused Elementor share-buttons config string), NO live chat, NO quote/RFQ form, NO blog, NO FAQ, NO careers page, NO social media links, NO downloadable brochures, NO JSON-LD/schema.org markup"
     ],
@@ -1853,7 +1853,7 @@
      "Zero OEM/equipment brand names anywhere on the site (no GE, Philips, Mindray, Drager, Sirona, etc.) — they list equipment categories only, heavily dental-focused (9 of 15 items are dental)",
      "Site is a static HTML export of a WordPress/Elementor build (nav links point to about/index.html etc.), so the contact and newsletter forms probably do not work — combined with the broken mailto and mismatched tel: link, lead capture appears largely broken",
      "Claims regional reach beyond UAE: 'GCC and Africa' / 'Middle East and Africa' market positioning",
-     "Three phone numbers displayed: +9714 234 4176, +971 4 834 0053, +971 54 317 9414; address: Office 10-2F, Bin Shabib Bldg., 15th St., Umm Ramool, Dubai",
+     "Three phone numbers displayed: [number removed], [number removed], [number removed]; address: Office 10-2F, Bin Shabib Bldg., 15th St., Umm Ramool, Dubai",
      "Numerous typos/quality issues in customer-facing copy: 'DEFIBRILATOR', 'BLOOD PREESSURE', 'ECO MACHINE' (presumably Echo), 'HAppy Customers', 'Send MEssage' — low content polish overall",
      "Products and Repairing pages are essentially the same 15-item equipment list with no individual product pages, specs, or photos catalogued per item",
      "Only 6 pages total; no SEO infrastructure (no schema markup, no blog), making this a thin competitor site overall"
@@ -1977,10 +1977,10 @@
      "Contradictory template leftover in Why Choose Us: 'Over 14 years in the construction industry', 'More than 20 highly trained workers', 'Professional Engineers: Expertise in civil and structural engineering' — construction-template text never replaced"
     ],
     "site_features": [
-     "WhatsApp: floating Chaty chat widget (v3.5.7) with two channels — Phone (+971 56 344 1782) and WhatsApp (same number); all 5 'Get Quotation' buttons also link to web.whatsapp.com/send with no pre-filled message text",
+     "WhatsApp: floating Chaty chat widget (v3.5.7) with two channels — Phone ([number removed]) and WhatsApp (same number); all 5 'Get Quotation' buttons also link to web.whatsapp.com/send with no pre-filled message text",
      "Quote/contact form: Elementor Pro form on /contact-us/ with Name, Email, Phone (numeric pattern validation), Message — all required",
      "Google Maps embeds: footer 'Service Area' map of generic 'United Arab Emirates' (zoom 10); contact page has a second embed incorrectly pointing to 'London Eye, London, United Kingdom' (template default never changed)",
-     "Contact info: phones +971 56 344 1782 / +971 56 485 0178, email info@alsarmmedical.com; address shown only as 'United Arab Emirates' (no street address)",
+     "Contact info: phones [number removed] / [number removed], email info@alsarmmedical.com; address shown only as 'United Arab Emirates' (no street address)",
      "NO live chat (beyond WhatsApp), NO blog (only default WordPress 'hello-world' post in sitemap), NO FAQ, NO careers page, NO social media links anywhere, NO downloadable brochures, NO JSON-LD/schema.org markup in source",
      "Tech stack: WordPress 7.0, Astra theme, Elementor 4.1.1 + Elementor Pro 3.35, Header Footer Elementor plugin, Chaty plugin; site is only 4 pages (Home, About Us, Our Services, Contact Us) per sitemap",
      "Copyright line: 'Copyright 2024 alsarmmedical.com'"
@@ -2086,7 +2086,7 @@
     "other": "—"
    },
    "notes": [
-    "Support page shows placeholder phone '1234567890' and a US placeholder address",
+    "Support page shows placeholder phone '[number removed]' and a US placeholder address",
     "Testimonials reference Saudi cities"
    ],
    "raw": {
@@ -2123,14 +2123,14 @@
      "Footer email capture field ('Your Email Address / Submit Your Request') on every page",
      "Google Maps embed on homepage (Burlington Tower Business Bay) and on support page - but the support-page map points to a placeholder US address '697 Hilltop Street, Springfield, MA, USA'",
      "JSON-LD schema.org markup on every page (WebSite type only, with name/description/keywords)",
-     "Contact details: info@wadi-al-hanan.com, support@wadi-al-hanan.com, +971 4 348 2784 (support page also shows placeholder phone '1234567890' and placeholder address '123 Medical St, City')",
+     "Contact details: info@wadi-al-hanan.com, support@wadi-al-hanan.com, [number removed] (support page also shows placeholder phone '[number removed]' and placeholder address '123 Medical St, City')",
      "Image gallery on the maintenance page (stock Unsplash images)",
      "NO WhatsApp button, NO live chat, NO blog, NO FAQ, NO careers page, NO social media links, NO downloadable brochures"
     ],
     "arabic_support": "none - hreflang only declares x-default, /ar and /ar/ return 404, no Arabic text anywhere in the HTML, no language switcher; site is English-only (html lang=\\\"en\\\", inLanguage:\\\"en\\\" in schema)",
     "brands_serviced": [],
     "standout_items": [
-     "The entire site is an AI-generated Hostinger Website Builder (Zyro/Astro) template that was never finished: unlabeled 'Button' nav item, placeholder address '123 Medical St, City', placeholder phone '1234567890', truncated hours 'Mon-Fri 9am', and a Google Maps embed pointing to Springfield, Massachusetts USA",
+     "The entire site is an AI-generated Hostinger Website Builder (Zyro/Astro) template that was never finished: unlabeled 'Button' nav item, placeholder address '123 Medical St, City', placeholder phone '[number removed]', truncated hours 'Mon-Fri 9am', and a Google Maps embed pointing to Springfield, Massachusetts USA",
      "All imagery is generic Unsplash stock (some images are of sofas/interiors, unrelated to medical equipment) plus a Pexels stock video",
      "No equipment brands (GE, Philips, Mindray, Drager, etc.) are mentioned anywhere - no brands_serviced content at all",
      "No services detail pages: 'Learn'/'Discover'/'Get Started' buttons exist but the site has only 4 pages total (/, /services, /maintenance, /support)",
@@ -2455,7 +2455,7 @@
      "JSON-LD schema marks org as Person/Organization 'ursdxb'"
     ],
     "site_features": [
-     "WhatsApp floating button (wp-whatsapp plugin; Arabic site number wa.me/+971589975968, English site number +971501436067)",
+     "WhatsApp floating button (wp-whatsapp plugin; Arabic site number wa.me/[number removed], English site number [number removed])",
      "Tawk.to live chat widget (id 60a627cf185beb22b30f0d1c)",
      "Contact / inquiry form (Contact Form 7 - wpcf7)",
      "MailChimp newsletter signup (mc4wp_form id 7484)",
@@ -2467,7 +2467,7 @@
      "WordPress site, designed by Infobahn",
      "RSS feeds"
     ],
-    "arabic_support": "full bilingual - dedicated Arabic site lives at /arabic/ subdirectory (a parallel WordPress multisite/translation, not /ar/ paths or hreflang tags). Arabic homepage renders dir=rtl with fully translated nav, hero, about, services labels, blog excerpts and footer. Inner Arabic pages exist and are translated: /arabic/profile/ (About Us), /arabic/contacts/ (full Arabic contact page with address PO Box 377913 Dubai, phone +971 4 883 71 15, email info@urslabs.com, working hours Mon-Sat 8:30am-5:30pm, careers careers@urslabs.com), /arabic/quality-policy/, /arabic/why-urs-labs/, /arabic/accreditation/, and Arabic service pages (calibration, chemical, environment, food microbiology, water microbiology, special tests, supply of instruments, training). Some content blocks remain in English on the Arabic pages (e.g. service card descriptions, '30+ Years of experience' label, footer accreditation paragraph). No visible language-switcher toggle link found between EN and AR versions; English site does not link out to /arabic/ in nav. Arabic blog has 2-3 posts (food testing accuracy, halal food identification).",
+    "arabic_support": "full bilingual - dedicated Arabic site lives at /arabic/ subdirectory (a parallel WordPress multisite/translation, not /ar/ paths or hreflang tags). Arabic homepage renders dir=rtl with fully translated nav, hero, about, services labels, blog excerpts and footer. Inner Arabic pages exist and are translated: /arabic/profile/ (About Us), /arabic/contacts/ (full Arabic contact page with address PO Box 377913 Dubai, phone [number removed], email info@urslabs.com, working hours Mon-Sat 8:30am-5:30pm, careers careers@urslabs.com), /arabic/quality-policy/, /arabic/why-urs-labs/, /arabic/accreditation/, and Arabic service pages (calibration, chemical, environment, food microbiology, water microbiology, special tests, supply of instruments, training). Some content blocks remain in English on the Arabic pages (e.g. service card descriptions, '30+ Years of experience' label, footer accreditation paragraph). No visible language-switcher toggle link found between EN and AR versions; English site does not link out to /arabic/ in nav. Arabic blog has 2-3 posts (food testing accuracy, halal food identification).",
     "standout_items": [
      "No equipment OEM/brand servicing claims found - this is a testing & calibration laboratory, NOT a medical/lab equipment repair company. It does NOT advertise servicing GE, Philips, Mindray, Drager or similar device brands. It only references OEMs generically as a source of approvals.",
      "Core focus is food/water/environmental/chemical lab testing plus calibration and training - the brief's framing as 'medical/lab equipment service company' does not match the actual site.",
